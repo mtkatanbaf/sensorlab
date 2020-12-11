@@ -1,16 +1,31 @@
-- name: Joshua R. Smith
-  photo: joshua-web.jpg
-  info: Milton and Delia Zeutschel Professor
-  email: jrs@cs.uw.edu
-  website: https://sensor.cs.washington.edu/jrs.html
+- name: Brody Mahoney
+  photo: brody.jpg
+  info: Graduate Student
+  email: brodym@uw.edu 
+  website: 
   number_educ: 0
   education1: 
 
-- name: Jianfeng (Jacky) Ge
-  photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
-  number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: Ph.D. with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
+- name: Patrick Lancaster
+  photo: patrick.jpg
+  info: Graduate Student
+  email: plancaster1@live.com 
+  website: <a href="https://homes.cs.washington.edu/~planc509/">Link</a>
+  number_educ: 0
+  education1: 
+
+- name: Zerina Kapetanovic
+  photo: zerina.jpg
+  info: Graduate Student
+  email: zerinak@uw.edu 
+  website: <a href="http://students.washington.edu/zerinak/">Link</a>
+  number_educ: 0
+  education1: 
+
+- name: Gregory Moore
+  photo: greg.jpg
+  info: Graduate Student
+  email: gemoore@uw.edu 
+  website: <a href="https://scholar.google.com/citations?user=zRVzo9cAAAAJ&hl=en">Link</a>
+  number_educ: 0
+  education1: 
