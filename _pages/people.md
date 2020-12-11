@@ -9,7 +9,7 @@ permalink: /people/
 # Group Members
 
 
-Jump to [Members](#members), [Alumni](#alumni), [Former visitors](#lab-visitors).
+Jump to [Members](#members), [Alumni](#alumni), [Former visitors](#visitors).
 
 ## Principal Investigator
 <div class="row">
@@ -39,7 +39,8 @@ Jump to [Members](#members), [Alumni](#alumni), [Former visitors](#lab-visitors)
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>
   email: <{{ member.email }}> <br>
-  website: <{{ member.website }}> <br></i>
+  website: <{{ member.website }}> <br>
+  </i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -55,21 +56,6 @@ Jump to [Members](#members), [Alumni](#alumni), [Former visitors](#lab-visitors)
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
   {% endif %}
 
   </ul>
@@ -103,7 +89,11 @@ Jump to [Members](#members), [Alumni](#alumni), [Former visitors](#lab-visitors)
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  email: <{{ member.email }}> <br>
+  website: <{{ member.website }}> <br>
+  First job: {{ member.first_job }}<br> 
+  Current job: {{ member.current_job }}<br> 
+  </i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -122,7 +112,7 @@ Jump to [Members](#members), [Alumni](#alumni), [Former visitors](#lab-visitors)
 </div>
 {% endif %}
 
-## lab-visitors
+## Visitors
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_visitors %}
 
@@ -135,7 +125,11 @@ Jump to [Members](#members), [Alumni](#alumni), [Former visitors](#lab-visitors)
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <i>email: <{{ member.email }}> <br>
+  website: <{{ member.website }}> <br>
+  First job: {{ member.first_job }}<br> 
+  Current job: {{ member.current_job }}<br> 
+  </i>
   <ul style="overflow: hidden">
 
   </ul>
