@@ -39,7 +39,7 @@ Jump to [[Members](#members), [Alumni](#alumni), [Former visitors](#lab-visitors
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>
   email: <{{ member.email }}> <br>
-  website: <a href=<{{ member.website }}>>Link</a> </i>
+  website: <{{ member.website }}> </i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
