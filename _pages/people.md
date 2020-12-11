@@ -89,11 +89,10 @@ Jump to [Members](#members), [Alumni](#alumni), [Former visitors](#visitors).
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  email: <{{ member.email }}> <br>
+  <i>email: <{{ member.email }}> <br>
   website: <{{ member.website }}> <br>
   First job: {{ member.first_job }}<br> 
-  Current job: {{ member.current_job }}<br> 
-  </i>
+  Current job: {{ member.current_job }}<br> </i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -136,10 +135,6 @@ Jump to [Members](#members), [Alumni](#alumni), [Former visitors](#visitors).
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
 
 {% endfor %}
 
