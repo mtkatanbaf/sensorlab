@@ -17,8 +17,8 @@ Jump to [[Members](#members), [Alumni](#alumni), [Former visitors](#lab-visitors
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/joshua-web.jpg" class="img-responsive" width="25%" style="float: left" />
   <h4>Joshua R. Smith</h4>
   <i>Milton and Delia Zeutschel Professor<br>
-  email: jrs@cs.uw.edu <br>
-  website: https://sensor.cs.washington.edu/jrs.html </i>
+  email: <a href="jrs@cs.uw.edu">jrs@cs.uw.edu</a> <br>
+  website: <a href="https://sensor.cs.washington.edu/jrs.html">Link</a></i>
   <ul style="overflow: hidden">
   </ul>
 </div>
@@ -39,7 +39,7 @@ Jump to [[Members](#members), [Alumni](#alumni), [Former visitors](#lab-visitors
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>
   email: <{{ member.email }}> <br>
-  website: <{{ member.website }}> </i>
+  website: <a href=<{{ member.website }}>>Link</a> </i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
