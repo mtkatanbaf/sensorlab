@@ -9,15 +9,16 @@ permalink: /people/
 # Group Members
 
 
-Jump to [[Graduate students](#graduate-students), [alumni](#alumni), [lab visitors](#lab-visitors).
+Jump to [[Members](#members), [Alumni](#alumni), [Former visitors](#lab-visitors).
 
 ## Principal Investigator
 <div class="row">
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/joshua-web.jpg" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}> </i>
-  <i>{{ member.info }}<br>website: <{{ member.website }}> </i>
+  <h4>Joshua R. Smith</h4>
+  <i>Milton and Delia Zeutschel Professor<br>
+  email: jrs@cs.uw.edu <br>
+  website: https://sensor.cs.washington.edu/jrs.html </i>
   <ul style="overflow: hidden">
   </ul>
 </div>
@@ -36,8 +37,9 @@ Jump to [[Graduate students](#graduate-students), [alumni](#alumni), [lab visito
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}> </i>
-  <i>{{ member.info }}<br>website: <{{ member.website }}> </i>
+  <i>{{ member.info }}<br>
+  email: <{{ member.email }}> <br>
+  website: <{{ member.website }}> </i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
