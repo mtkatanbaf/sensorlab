@@ -8,12 +8,22 @@ permalink: /people/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
+Jump to [[Graduate students](#graduate-students), [alumni](#alumni), [lab visitors](#lab-visitors).
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+## Principal Investigator
+<div class="row">
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/joshua-web.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}<br>email: <{{ member.email }}> </i>
+  <i>{{ member.info }}<br>website: <{{ member.website }}> </i>
+  <ul style="overflow: hidden">
+  </ul>
+</div>
+</div>
 
-## Staff
+## Graduate students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
