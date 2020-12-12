@@ -5,6 +5,8 @@
     Patrick E. Lancaster, Joshua R. Smith, Siddhartha S. Srinivasa, 
   url: 
   display: IEEE International Conference on Robotics and Automation, May 2019.
+  year: 2019
+  category: 2
   highlight: 1
   news2:
  
@@ -15,6 +17,8 @@
     Ali Saffari, Mehrdad Hessar, Saman Naderiparizi, Joshua R. Smith
   url:
   display: IEEE International Conference on RFID (RFID), April, 2019.
+  year: 2019
+  category: 1
   highlight: 1
 
 - title: "NeuralCLIP: A Modular FPGA-Based Neural Interface for Closed-Loop Operation"
@@ -24,6 +28,8 @@
     Vaishnavi Ranganathan, Jared Nakahara, Soshi Samejima, Nicholas Tolley, Abed Khorasani, Chet T. Moritz, Joshua R. Smith
   url:
   display: 9th International IEEE EMBS Conference on Neural Engineering, March 20, 2019.
+  year: 2019
+  category: 2
   highlight: 0
  
 - title: "RF Bandaid: A Fully-Analog and Passive Wireless Interface for Wearable Sensors"
@@ -33,6 +39,8 @@
     VAISHNAVI RANGANATHAN, SIDHANT GUPTA, JONATHAN LESTER, JOSHUA R. SMITH, DESNEY TAN
   url:
   display: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, June 2018.
+  year: 2018
+  category: 1
   highlight: 0
  
 - title: "Wireless Quantization Index Modulation: Enabling Communication Through Existing Signals"
@@ -42,6 +50,8 @@
     Zerina Kapetanovic, Vamsi Talla, Aaron Parks , Jing Qian, Joshua Smith
   url:
   display: IEEE RFID, 2018/4/10.
+  year: 2018
+  category: 1
   highlight: 0
  
 - title: "RF-powered, Backscatter-based Cameras"
@@ -51,6 +61,8 @@
     Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith
   url:
   display: IEEE 11th European Conference on Antennas and Propagation (EUCAP), pp. 346-349, 2017.
+  year: 2017
+  category: 1
   highlight: 0
  
 - title: "Fast Downstream to Many (Computational) RFIDs"
@@ -60,6 +72,8 @@
     Henko Aantjes, Amjad Y Majid, Przemyslaw Pawelczak, Jethro Tan, Aaron Parks, Joshua R Smith
   url:
   display: Proc. IEEE INFOCOM 2017, June 14, 2017.
+  year: 2017
+  category: 1
   highlight: 0
  
 - title: "Pre-touch Sensing for Sequential Manipulation"
@@ -69,6 +83,8 @@
     Boling Yang, Patrick Lancaster, Joshua R. Smith
   url:
   display:  Proceedings of ICRA 2017, May 2017.
+  year: 2017
+  category: 2
   highlight: 0
  
 - title: "Finding Common Ground: A Survey of Capacitive Sensing in Human-Computer Interaction"
@@ -78,6 +94,8 @@
     Tobias Grosse-Puppendahl, Christian Holz, Gabe Cohn, Raphael Wimmer, Oskar Bechtold, Steve Hodges, Matthew S Reynolds, Joshua R Smith
   url:
   display:  Proceedings of the 2017 ACM SIGCHI Conference (CHI 2017), May 6, 2017.
+  year: 2017
+  category: 2
   highlight: 0
 
 - title: "FM Backscatter: Enabling Connected Cities and Smart Fabrics"
@@ -87,6 +105,8 @@
     Anran Wang, Vikram Iyer, Vamsi Talla, Joshua R. Smith, Shyamnath Gollakota
   url:
   display: 14th USENIX Symposium on Networked Systems Design and Implementation (NSDI 17), March 27, 2017.
+  year: 2017
+  category: 1
   highlight: 0
  
 - title: "Passive Wi-Fi: Bringing Low Power to Wi-Fi Transmissions"
@@ -96,6 +116,8 @@
     Bryce Kellogg, Vamsi Talla, Shyamnath Gollakota, Joshua R. Smith
   url:
   display: 13th USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2016. ***Best Paper***
+  year: 2016
+  category: 1
   highlight: 0
  
 - title: "2D and 3D Millimeter-Wave Synthetic Aperture Radar Imaging on a PR2 Platform"
@@ -105,6 +127,8 @@
     Claire M Watts, Patrick Lancaster, Andreas Pedross-Engel, Joshua R Smith, Matthew S Reynolds
   url:
   display: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2016), October, 2016.
+  year: 2016
+  category: 1
   highlight: 0
  
 - title: "Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices"
@@ -114,6 +138,8 @@
     Vikram Iyer, Vamsi Talla, Bryce Kellogg, Shyamnath Gollakota, Joshua R Smith
   url:
   display: Proceedings of the 2016 ACM SIGCOMM Conference (SIGCOMM 2016), August 2016. ***Best Paper***
+  year: 2016
+  category: 1
   highlight: 0
 
 - title: "Battery-Free Connected Machine Vision with WISPCam"
@@ -123,6 +149,8 @@
     Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith
   url:
   display: GetMobile Magazine, 2016.
+  year: 2016
+  category: 1
   highlight: 0
  
 - title: "WISPCam: An RF-Powered Smart Camera for Machine Vision Applications"
@@ -132,6 +160,8 @@
     Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith
   url:
   display: ASPLOS HLPC Workshop, April 2016.
+  year: 2016
+  category: 1
   highlight: 0
  
 - title: "Design and Analysis of Rectifying and Regulating Rectifier with PWM and PFM Modes"
@@ -141,6 +171,8 @@
     Vamsi Talla, Joshua R. Smith
   url:
   display: May 2016
+  year: 2016
+  category: 1
   highlight: 0
  
 - title: "A High-Voltage Compliant Neural Stimulator With HF Wireless Power and UHF Backscatter Communication"
@@ -150,6 +182,8 @@
     Vaishnavi Ranganathan, Brody Mahoney, Eric Pepin, Michael Sunshine, Chet T. Moritz, Jacques C. Rudell, Joshua R. Smith
   url:
   display: IEEE WPTC, 2016.
+  year: 2016
+  category: 1
   highlight: 0
 
 - title: "Analysis of a Near Field Communication Wireless Power System"
@@ -159,6 +193,8 @@
     Yi Zhao, Brody Mahoney, Joshua R. Smith
   url:
   display: IEEE WPTC, 2016.
+  year: 2016
+  category: 1
   highlight: 0
 
  
@@ -169,6 +205,8 @@
     Vamsi Talla, Vaishnavi Ranganathan, Brody Mahoney, Joshua R. Smith
   url:
   display: May 2016
+  year: 2016
+  category: 1
   highlight: 0
  
  
@@ -179,6 +217,8 @@
     Ivar in't Veen, Qingzhi Liu, Przemyslaw Pawelczak, Aaron Parks, Joshua R Smith
   url:
   display: 2016 IEEE International Conference on RFID (IEEE RFID 2016), May 2016.
+  year: 2016
+  category: 1
   highlight: 0
  
 - title: "uMonitor: In-situ Energy Monitoring with Microwatt power consumption"
@@ -188,6 +228,8 @@
     Saman Naderiparizi, Aaron N. Parks, Farshid Salemi, Joshua R. Smith
   url:
   display: IEEE RFID, May 2016.
+  year: 2016
+  category: 1
   highlight: 0
  
 - title: "Wisent: Robust downstream communication and storage for computational RFIDs"
@@ -197,6 +239,8 @@
     Jethro Tan, Przemysław Pawełczak, Aaron Parks, Joshua R Smith
   url:
   display: IEEE INFOCOMM, The 35th Annual IEEE International Conference on Computer Communications, April 2016.
+  year: 2016
+  category: 1
   highlight: 0
 
 - title: "Large Area Wireless Power via a Planar Array of Coupled Resonators"
@@ -206,6 +250,8 @@
     Xingyi Shi, Joshua R. Smith
   url:
   display: IEEE IWAT, Feb 2016.
+  year: 2016
+  category: 1
   highlight: 0
  
 - title: "Transmissive Optical Pretouch Sensing for Robotic Grasping"
@@ -215,6 +261,8 @@
     Di Guo, Patrick Lancaster, Liang-Ting Jiang, Fuchun Sun, Joshua R. Smith
   url:
   display: Intelligent Robots and Systems (IROS), 2015 IEEE/RSJ International Conference on, Hamburg, pp. 5891-5897, 2015.
+  year: 2015
+  category: 2
   highlight: 0
  
 - title: "Self-Localizing Battery-Free Cameras"
@@ -224,6 +272,8 @@
     Saman Naderiparizi, Yi Zhao, James Youngquist, Alanson P. Sample, Joshua R. Smith
   url:
   display: Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing. ACM, September 2015.
+  year: 2015
+  category: 1
   highlight: 0
  
 - title: "NFC-WISP: an open source software defined near field RFID sensing platform"
@@ -233,6 +283,8 @@
     Yi Zhao, Joshua R. Smith, Alanson Sample
   url:
   display: Ubicomp, 2015.
+  year: 2015
+  category: 1
   highlight: 0, , 
  
 - title: "WISPCam: A Battery-Free RFID Camera"
@@ -242,6 +294,8 @@
     Saman Naderiparizi, Aaron N. Parks, Zerina Kapetanovic, Benjamin Ransford, Joshua R. Smith
   url:
   display: IEEE RFID, April 15-17 2015.
+  year: 2015
+  category: 1
   highlight: 0
  
 - title: "Physical human interactive guidance: Identifying grasping principles from human-planned grasps"
@@ -251,6 +305,8 @@
     R Balasubramanian, L Xu, PD Brook, JR Smith, Y Matsuoka
   url:
   display: The Human Hand as an Inspiration for Robot Hand Development, pp 477-500, Springer, 2014.
+  year: 2014
+  category: 2
   highlight: 0
  
  

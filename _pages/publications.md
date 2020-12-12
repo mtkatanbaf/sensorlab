@@ -56,16 +56,35 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
+{% if publi.year > 2016 %}
+
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br />{{ publi.display }}
 
+{% endif %}
 {% endfor %}
 
 ## Wireless
+{% for publi in site.data.publist %}
 
+{% if publi.category == 1 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br />{{ publi.display }}
+
+{% endif %}
+{% endfor %}
 
 ## Robotics
+{% for publi in site.data.publist %}
 
+{% if publi.category == 2 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br />{{ publi.display }}
+
+{% endif %}
+{% endfor %}
 
 ## RFID Sensing and WISP
 
