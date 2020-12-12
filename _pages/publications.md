@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list see [Recent Publications](#recent=publications), [Wireless](#wireless), [Robotics](#robotics), [RFID Sensing and WISP](#rfid-sensing-and-wisp), [Data Hiding, Security and Misc.](#data-hiding,-security-and-misc.)  )
+(For a full list see [Recent Publications](#recent=publications), [Wireless](#wireless), [Robotics](#robotics), [RFID Sensing and WISP](#rfid-sensing-and-wisp), [Security and Misc.](#security-and-misc.)  )
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -70,4 +70,4 @@ permalink: /publications/
 ## RFID Sensing and WISP
 
 
-## Data Hiding, Security and Misc.
+## Security and Misc.
