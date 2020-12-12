@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "Sensor Systems Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Sensor Systems Lab"
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+In the Sensor Systems Laboratory we invent new sensor systems, devise innovative ways to power and communicate with them, and develop algorithms for using them. Our research has applications in the domains of bioelectronics, robotics, and ubiquitous computing. Current research projects include: near field (non-radiative) wireless power transfer, far field (radiative) wirelessly powered sensing platforms, and novel sensors for robotic manipulation. One theme that runs through our work is machine sensing techniques that are not modeled on human perception. Another theme is the use of RF signals for sensing and power transfer, rather than communication. An additional recent theme is generalizations of backsckatter for novel low power communication.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -59,18 +59,17 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
 
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+We are grateful for funding from National Science Foundation (NSF), NSF Engineering Research Center (ERC), National Institutes of Health (NIH), Intel, Google, Microsoft, Bosch, UW Center for Commercialization (C4C), Washington Research Foundation and UW Center for Process Analysis and Control (CPAC).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/NSFlogo.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/CSNELogo.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/NIHLogo.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/Intellogo.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/googlelogo.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/MicrosoftLogo.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/bosch-logo-2.gif" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/c4c-logo-scaled.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/WRFlogo.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/cpac-logo-scaled.png" style="width: 110px">
 </figure>
