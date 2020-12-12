@@ -39,283 +39,299 @@
     display: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, June 2018.
   highlight: 0
  
-# Wireless Quantization Index Modulation: Enabling Communication Through Existing Signals, Zerina Kapetanovic, Vamsi Talla, Aaron Parks , Jing Qian, Joshua Smith, IEEE FID, 2018/4/10.
+-title: "Wireless Quantization Index Modulation: Enabling Communication Through Existing Signals"
+  image: dummy.png
+  description: ""
+  authors: 
+    Zerina Kapetanovic, Vamsi Talla, Aaron Parks , Jing Qian, Joshua Smith
+  link:
+    url:
+    display: IEEE RFID, 2018/4/10.
+  highlight: 0
  
-# RF-powered, Backscatter-based Cameras, Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith, IEEE 11th European Conference on Antennas and Propagation (EUCAP), pp. 346-349, 2017.
+-title: "RF-powered, Backscatter-based Cameras"
+  image: dummy.png
+  description: ""
+  authors: 
+    Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith
+  link:
+    url:
+    display: IEEE 11th European Conference on Antennas and Propagation (EUCAP), pp. 346-349, 2017.
+  highlight: 0
  
-# Fast Downstream to Many (Computational) RFIDs, Henko Aantjes, Amjad Y Majid, Przemyslaw Pawelczak, Jethro Tan, Aaron Parks, Joshua R Smith, Proc. IEEE INFOCOM 2017, June 14, 2017.
+Fast Downstream to Many (Computational) RFIDs, Henko Aantjes, Amjad Y Majid, Przemyslaw Pawelczak, Jethro Tan, Aaron Parks, Joshua R Smith, Proc. IEEE INFOCOM 2017, June 14, 2017.
  
-# Pre-touch Sensing for Sequential Manipulation, Boling Yang, Patrick Lancaster, Joshua R. Smith, Proceedings of ICRA 2017, May 2017.
+Pre-touch Sensing for Sequential Manipulation, Boling Yang, Patrick Lancaster, Joshua R. Smith, Proceedings of ICRA 2017, May 2017.
  
-# Finding Common Ground: A Survey of Capacitive Sensing in Human-Computer Interaction, Tobias Grosse-Puppendahl, Christian Holz, Gabe Cohn, Raphael Wimmer, Oskar Bechtold, Steve Hodges, Matthew S Reynolds, Joshua R Smith, Proceedings of the 2017 ACM SIGCHI Conference (CHI 2017), May 6, 2017.
+Finding Common Ground: A Survey of Capacitive Sensing in Human-Computer Interaction, Tobias Grosse-Puppendahl, Christian Holz, Gabe Cohn, Raphael Wimmer, Oskar Bechtold, Steve Hodges, Matthew S Reynolds, Joshua R Smith, Proceedings of the 2017 ACM SIGCHI Conference (CHI 2017), May 6, 2017.
  
-# FM Backscatter: Enabling Connected Cities and Smart Fabrics, Anran Wang, Vikram Iyer, Vamsi Talla, Joshua R. Smith, Shyamnath Gollakota, 14th USENIX Symposium on Networked Systems Design and Implementation (NSDI 17), March 27, 2017.
+FM Backscatter: Enabling Connected Cities and Smart Fabrics, Anran Wang, Vikram Iyer, Vamsi Talla, Joshua R. Smith, Shyamnath Gollakota, 14th USENIX Symposium on Networked Systems Design and Implementation (NSDI 17), March 27, 2017.
  
-# Passive Wi-Fi: Bringing Low Power to Wi-Fi Transmissions, Bryce Kellogg, Vamsi Talla, Shyamnath Gollakota, Joshua R. Smith, Usenix Symposium on Networked Systems Design and Implementation (NSDI), 2016. ***Best Paper***
+Passive Wi-Fi: Bringing Low Power to Wi-Fi Transmissions, Bryce Kellogg, Vamsi Talla, Shyamnath Gollakota, Joshua R. Smith, Usenix Symposium on Networked Systems Design and Implementation (NSDI), 2016. ***Best Paper***
  
-# 2D and 3D Millimeter-Wave Synthetic Aperture Radar Imaging on a PR2 Platform, Claire M Watts, Patrick Lancaster, Andreas Pedross-Engel, Joshua R Smith, Matthew S Reynolds, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2016), October, 2016.
+2D and 3D Millimeter-Wave Synthetic Aperture Radar Imaging on a PR2 Platform, Claire M Watts, Patrick Lancaster, Andreas Pedross-Engel, Joshua R Smith, Matthew S Reynolds, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2016), October, 2016.
  
-# Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices, Vikram Iyer, Vamsi Talla, Bryce Kellogg, Shyamnath Gollakota, Joshua R Smith, Proceedings of the 2016 ACM SIGCOMM Conference (SIGCOMM 2016), August 2016. ***Best Paper***
+Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices, Vikram Iyer, Vamsi Talla, Bryce Kellogg, Shyamnath Gollakota, Joshua R Smith, Proceedings of the 2016 ACM SIGCOMM Conference (SIGCOMM 2016), August 2016. ***Best Paper***
  
-# Battery-Free Connected Machine Vision with WISPCam, Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith, GetMobile Magazine, 2016.
+Battery-Free Connected Machine Vision with WISPCam, Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith, GetMobile Magazine, 2016.
  
-# WISPCam: An RF-Powered Smart Camera for Machine Vision Applications, Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith, ASPLOS HLPC Workshop, April 2016.
+WISPCam: An RF-Powered Smart Camera for Machine Vision Applications, Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith, ASPLOS HLPC Workshop, April 2016.
  
-# Design and Analysis of Rectifying and Regulating Rectifier with PWM and PFM Modes, Vamsi Talla, Joshua R. Smith, , May 2016.
+Design and Analysis of Rectifying and Regulating Rectifier with PWM and PFM Modes, Vamsi Talla, Joshua R. Smith, , May 2016.
  
-# A High-Voltage Compliant Neural Stimulator With HF Wireless Power and UHF Backscatter Communication, Vaishnavi Ranganathan, Brody Mahoney, Eric Pepin, Michael Sunshine, Chet T. Moritz, Jacques C. Rudell, Joshua R. Smith, IEEE WPTC, 2016.
+A High-Voltage Compliant Neural Stimulator With HF Wireless Power and UHF Backscatter Communication, Vaishnavi Ranganathan, Brody Mahoney, Eric Pepin, Michael Sunshine, Chet T. Moritz, Jacques C. Rudell, Joshua R. Smith, IEEE WPTC, 2016.
  
-# Analysis of a Near Field Communication Wireless Power System, Yi Zhao, Brody Mahoney, Joshua R. Smith, IEEE WPTC, 2016.
+Analysis of a Near Field Communication Wireless Power System, Yi Zhao, Brody Mahoney, Joshua R. Smith, IEEE WPTC, 2016.
  
-# Dual Band Wireless Power and Bi-Directional Data Link for Implanted Devices in 65 nm CMOS, Vamsi Talla, Vaishnavi Ranganathan, Brody Mahoney, Joshua R. Smith, , May 2016.
+Dual Band Wireless Power and Bi-Directional Data Link for Implanted Devices in 65 nm CMOS, Vamsi Talla, Vaishnavi Ranganathan, Brody Mahoney, Joshua R. Smith, , May 2016.
  
-# A high-voltage compliant neural stimulator with HF wireless power and UHF backscatter communication, Vaishnavi Ranganathan, Brody Mahoney, Eric Pepin, Michael D Sunshine, Chet T Moritz, Jacques C Rudell, Joshua R Smith, 2016 IEEE Wireless Power Transfer Conference (WPTC 2016), May 2016.
+A high-voltage compliant neural stimulator with HF wireless power and UHF backscatter communication, Vaishnavi Ranganathan, Brody Mahoney, Eric Pepin, Michael D Sunshine, Chet T Moritz, Jacques C Rudell, Joshua R Smith, 2016 IEEE Wireless Power Transfer Conference (WPTC 2016), May 2016.
  
-# BLISP: Enhancing backscatter radio with active radio for computational RFIDs, Ivar in't Veen, Qingzhi Liu, Przemyslaw Pawelczak, Aaron Parks, Joshua R Smith, 2016 IEEE International Conference on RFID (IEEE RFID 2016), May 2016.
+BLISP: Enhancing backscatter radio with active radio for computational RFIDs, Ivar in't Veen, Qingzhi Liu, Przemyslaw Pawelczak, Aaron Parks, Joshua R Smith, 2016 IEEE International Conference on RFID (IEEE RFID 2016), May 2016.
  
-# uMonitor: In-situ Energy Monitoring with Microwatt power consumption, Saman Naderiparizi, Aaron N. Parks, Farshid Salemi, Joshua R. Smith, IEEE RFID, May 2016.
+uMonitor: In-situ Energy Monitoring with Microwatt power consumption, Saman Naderiparizi, Aaron N. Parks, Farshid Salemi, Joshua R. Smith, IEEE RFID, May 2016.
  
-# Wisent: Robust downstream communication and storage for computational RFIDs, Jethro Tan, Przemysław Pawełczak, Aaron Parks, Joshua R Smith, IEEE INFOCOMM, The 35th Annual IEEE International Conference on Computer Communications, April 2016.
+Wisent: Robust downstream communication and storage for computational RFIDs, Jethro Tan, Przemysław Pawełczak, Aaron Parks, Joshua R Smith, IEEE INFOCOMM, The 35th Annual IEEE International Conference on Computer Communications, April 2016.
  
-# Large Area Wireless Power via a Planar Array of Coupled Resonators, Xingyi Shi, Joshua R. Smith, IEEE IWAT, Feb 2016.
+Large Area Wireless Power via a Planar Array of Coupled Resonators, Xingyi Shi, Joshua R. Smith, IEEE IWAT, Feb 2016.
  
-# Transmissive Optical Pretouch Sensing for Robotic Grasping, Di Guo, Patrick Lancaster, Liang-Ting Jiang, Fuchun Sun, Joshua R. Smith, Intelligent Robots and Systems (IROS), 2015 IEEE/RSJ International Conference on, Hamburg, pp. 5891-5897, 2015.
+Transmissive Optical Pretouch Sensing for Robotic Grasping, Di Guo, Patrick Lancaster, Liang-Ting Jiang, Fuchun Sun, Joshua R. Smith, Intelligent Robots and Systems (IROS), 2015 IEEE/RSJ International Conference on, Hamburg, pp. 5891-5897, 2015.
  
-# Self-Localizing Battery-Free Cameras, Saman Naderiparizi, Yi Zhao, James Youngquist, Alanson P. Sample, Joshua R. Smith, Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing. ACM, September 2015.
+Self-Localizing Battery-Free Cameras, Saman Naderiparizi, Yi Zhao, James Youngquist, Alanson P. Sample, Joshua R. Smith, Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing. ACM, September 2015.
  
-# NFC-WISP: an open source software defined near field RFID sensing platform, Yi Zhao, Joshua R. Smith, Alanson Sample, Ubicomp, 2015.
+NFC-WISP: an open source software defined near field RFID sensing platform, Yi Zhao, Joshua R. Smith, Alanson Sample, Ubicomp, 2015.
  
-# WISPCam: A Battery-Free RFID Camera, Saman Naderiparizi, Aaron N. Parks, Zerina Kapetanovic, Benjamin Ransford, Joshua R. Smith, IEEE RFID, April 15-17 2015.
+WISPCam: A Battery-Free RFID Camera, Saman Naderiparizi, Aaron N. Parks, Zerina Kapetanovic, Benjamin Ransford, Joshua R. Smith, IEEE RFID, April 15-17 2015.
  
-# Physical human interactive guidance: Identifying grasping principles from human-planned grasps, R Balasubramanian, L Xu, PD Brook, JR Smith, Y Matsuoka, The Human Hand as an Inspiration for Robot Hand Development, pp 477-500, Springer, 2014.
+Physical human interactive guidance: Identifying grasping principles from human-planned grasps, R Balasubramanian, L Xu, PD Brook, JR Smith, Y Matsuoka, The Human Hand as an Inspiration for Robot Hand Development, pp 477-500, Springer, 2014.
  
-# Wireless Power: WREL, WARP, and Medical Devices
+Wireless Power: WREL, WARP, and Medical Devices
 	 
-# Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices, Vikram Iyer, Vamsi Talla, Bryce Kellogg, Shyamnath Gollakota, Joshua R Smith, Proceedings of the 2016 ACM SIGCOMM Conference (SIGCOMM 2016), August 2016. ***Best Paper***
+Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices, Vikram Iyer, Vamsi Talla, Bryce Kellogg, Shyamnath Gollakota, Joshua R Smith, Proceedings of the 2016 ACM SIGCOMM Conference (SIGCOMM 2016), August 2016. ***Best Paper***
  
-# FM Backscatter: Enabling Connected Cities and Smart Fabrics, Anran Wang, Vikram Iyer, Vamsi Talla, Joshua R. Smith, Shyamnath Gollakota, 14th USENIX Symposium on Networked Systems Design and Implementation (NSDI 17), March 27, 2017.
+FM Backscatter: Enabling Connected Cities and Smart Fabrics, Anran Wang, Vikram Iyer, Vamsi Talla, Joshua R. Smith, Shyamnath Gollakota, 14th USENIX Symposium on Networked Systems Design and Implementation (NSDI 17), March 27, 2017.
  
-# Large Area Wireless Power via a Planar Array of Coupled Resonators, Xingyi Shi, Joshua R. Smith, IEEE IWAT, Feb 2016.
+Large Area Wireless Power via a Planar Array of Coupled Resonators, Xingyi Shi, Joshua R. Smith, IEEE IWAT, Feb 2016.
  
-# Dual Band Wireless Power and Bi-Directional Data Link for Implanted Devices in 65 nm CMOS, Vamsi Talla, Vaishnavi Ranganathan, Brody Mahoney, Joshua R. Smith, , May 2016.
+Dual Band Wireless Power and Bi-Directional Data Link for Implanted Devices in 65 nm CMOS, Vamsi Talla, Vaishnavi Ranganathan, Brody Mahoney, Joshua R. Smith, , May 2016.
  
-# A High-Voltage Compliant Neural Stimulator With HF Wireless Power and UHF Backscatter Communication, Vaishnavi Ranganathan, Brody Mahoney, Eric Pepin, Michael Sunshine, Chet T. Moritz, Jacques C. Rudell, Joshua R. Smith, IEEE Wireless Power Transfer Conference (WPTC 2016), May 2016.
+A High-Voltage Compliant Neural Stimulator With HF Wireless Power and UHF Backscatter Communication, Vaishnavi Ranganathan, Brody Mahoney, Eric Pepin, Michael Sunshine, Chet T. Moritz, Jacques C. Rudell, Joshua R. Smith, IEEE Wireless Power Transfer Conference (WPTC 2016), May 2016.
  
-# Analysis of a Near Field Communication Wireless Power System, Yi Zhao, Brody Mahoney, Joshua R. Smith, IEEE Wireless Power Transfer Conference (WPTC), 2016.
+Analysis of a Near Field Communication Wireless Power System, Yi Zhao, Brody Mahoney, Joshua R. Smith, IEEE Wireless Power Transfer Conference (WPTC), 2016.
  
-# uMonitor: In-situ Energy Monitoring with Microwatt power consumption, Saman Naderiparizi, Aaron N. Parks, Farshid Salemi, Joshua R. Smith, IEEE RFID, May 2016.
+uMonitor: In-situ Energy Monitoring with Microwatt power consumption, Saman Naderiparizi, Aaron N. Parks, Farshid Salemi, Joshua R. Smith, IEEE RFID, May 2016.
  
-# Design and Analysis of Rectifying and Regulating Rectifier with PWM and PFM Modes, Vamsi Talla, Joshua R. Smith, , May 2016.
+Design and Analysis of Rectifying and Regulating Rectifier with PWM and PFM Modes, Vamsi Talla, Joshua R. Smith, , May 2016.
  
-# Passive Wi-Fi: Bringing Low Power to Wi-Fi Transmissions, Bryce Kellogg, Vamsi Talla, Shyamnath Gollakota, Joshua R. Smith, Usenix Symposium on Networked Systems Design and Implementation (NSDI), 2016. ***Best Paper***
+Passive Wi-Fi: Bringing Low Power to Wi-Fi Transmissions, Bryce Kellogg, Vamsi Talla, Shyamnath Gollakota, Joshua R. Smith, Usenix Symposium on Networked Systems Design and Implementation (NSDI), 2016. ***Best Paper***
  
-# Active Power Summation for Efficient Multiband RF Energy Harvesting, Aaron N. Parks, Joshua R. Smith, International Microwave Symposium , 2015.
+Active Power Summation for Efficient Multiband RF Energy Harvesting, Aaron N. Parks, Joshua R. Smith, International Microwave Symposium , 2015.
  
-# Power Delivery and Leakage Field Control Using and Adaptive Phased Array Wireless Power System, Benjamin Waters, Brody Mahoney, Vaishnavi Ranganathan, Joshua R. Smith, IEEE Transactions on Power Electronics, Special Issue on Wireless Power Transfer, February 2015.
+Power Delivery and Leakage Field Control Using and Adaptive Phased Array Wireless Power System, Benjamin Waters, Brody Mahoney, Vaishnavi Ranganathan, Joshua R. Smith, IEEE Transactions on Power Electronics, Special Issue on Wireless Power Transfer, February 2015.
  
-# Simultaneously Tuning and Powering Multiple Wirelessly Powered Devices, Benjamin Waters, Peter Fidelman, Jeffrey Raines, Joshua R. Smith, IEEE Wireless Power Transfer Conference, Boulder, CO, May 2015.
+Simultaneously Tuning and Powering Multiple Wirelessly Powered Devices, Benjamin Waters, Peter Fidelman, Jeffrey Raines, Joshua R. Smith, IEEE Wireless Power Transfer Conference, Boulder, CO, May 2015.
  
-# Localization of Receivers using Phased Array WPT, Vaishnavi Ranganathan, Benjamin Waters, Joshua R. Smith, IEEE Wireless Power Transfer Conference, Boulder, CO, May 2015.
+Localization of Receivers using Phased Array WPT, Vaishnavi Ranganathan, Benjamin Waters, Joshua R. Smith, IEEE Wireless Power Transfer Conference, Boulder, CO, May 2015.
  
-# SAR distribution for a Strongly Coupled Resonant Wireless Power Transfer System, Xingyi Shi, Benjamin Waters, Joshua R. Smith, IEEE Wireless Power Transfer Conference, Boulder, CO, May 2015.
+SAR distribution for a Strongly Coupled Resonant Wireless Power Transfer System, Xingyi Shi, Benjamin Waters, Joshua R. Smith, IEEE Wireless Power Transfer Conference, Boulder, CO, May 2015.
  
-# Co-optimization of Efficiency and Load Modulation Data Rate in a Wireless Power Transfer System, Xingyi Shi, Aaron N. Parks, Benjamin Waters, Joshua R. Smith, ISCAS, 2015.
+Co-optimization of Efficiency and Load Modulation Data Rate in a Wireless Power Transfer System, Xingyi Shi, Aaron N. Parks, Benjamin Waters, Joshua R. Smith, ISCAS, 2015.
  
-# Innovative Free-range Resonant Electrical Energy Delivery System (FREE-D System) for a Ventricular Assist Device Using Wireless Power, Benjamin Waters, Joshua R. Smith, Pramod Bonde, ASAIO Journal 60.1 (2014): 31-37, 2014. ***Winner of Willem J Kolff/Don B Olsen Award***
+Innovative Free-range Resonant Electrical Energy Delivery System (FREE-D System) for a Ventricular Assist Device Using Wireless Power, Benjamin Waters, Joshua R. Smith, Pramod Bonde, ASAIO Journal 60.1 (2014): 31-37, 2014. ***Winner of Willem J Kolff/Don B Olsen Award***
  
-# Optimal Coil Size Ratios for Wireless Power Transfer Applications, Benjamin Waters, Brody Mahoney, Gunbok Lee, Joshua R. Smith, ISCAS, 2014.
+Optimal Coil Size Ratios for Wireless Power Transfer Applications, Benjamin Waters, Brody Mahoney, Gunbok Lee, Joshua R. Smith, ISCAS, 2014.
  
-# Turbocharging Ambient Backscatter Communication, A.N. Parks, A. Liu, S. Gollakota, Joshua R. Smith, SIGCOMM, 2014.
+Turbocharging Ambient Backscatter Communication, A.N. Parks, A. Liu, S. Gollakota, Joshua R. Smith, SIGCOMM, 2014.
  
-# Wi-Fi Backscatter: Internet Connectivity for RF-Powered Devices, B. Kellogg, A.N. Parks, S. Gollakota, J.R. Smith, D.Wetherall, B. Kellogg, A.N. Parks, S. Gollako, S. Gollakota, Joshua R. Smith, D.Wetherall, SIGCOMM, 2014.
+Wi-Fi Backscatter: Internet Connectivity for RF-Powered Devices, B. Kellogg, A.N. Parks, S. Gollakota, J.R. Smith, D.Wetherall, B. Kellogg, A.N. Parks, S. Gollako, S. Gollakota, Joshua R. Smith, D.Wetherall, SIGCOMM, 2014.
  
-# Sifting Through the Airwaves: Efficient and Scalable Multiband RF Harvesting, Aaron N. Parks, Joshua R. Smith, IEEE RFID, Orlando Florida, April 2014. ***Best Paper***
+Sifting Through the Airwaves: Efficient and Scalable Multiband RF Harvesting, Aaron N. Parks, Joshua R. Smith, IEEE RFID, Orlando Florida, April 2014. ***Best Paper***
  
-# A Wirelessly Powered, Biologically Inspired Ambulatory Microrobot, M. Karpelson, B. Waters, B. Goldberg, B. Mahoney, O. Ozcan, A. Baisch, P.-M. Meyitang, J.R. Smith, R.J. Wood, IEEE Int. Conf. on Robotics and Automation (ICRA), Hong Kong, CN, May 2014.
+A Wirelessly Powered, Biologically Inspired Ambulatory Microrobot, M. Karpelson, B. Waters, B. Goldberg, B. Mahoney, O. Ozcan, A. Baisch, P.-M. Meyitang, J.R. Smith, R.J. Wood, IEEE Int. Conf. on Robotics and Automation (ICRA), Hong Kong, CN, May 2014.
  
-# Energy transmission and power sources for mechanical circulatory support devices to achieve total implantability, JX Wang, JR Smith, P Bonde, Annals of Thoracic Surgery, February 2014.
+Energy transmission and power sources for mechanical circulatory support devices to achieve total implantability, JX Wang, JR Smith, P Bonde, Annals of Thoracic Surgery, February 2014.
  
-# The Emergence of RF-Powered Computing, S Gollakota, M Reynolds, JR Smith, D. Wetherall, IEEE Computer, Vol 47 No 1, January 2014.
+The Emergence of RF-Powered Computing, S Gollakota, M Reynolds, JR Smith, D. Wetherall, IEEE Computer, Vol 47 No 1, January 2014.
  
-# Ambient Backscatter: Wireless Communication out of Thin Air, Vincent Liu, Aaron Parks, Vamsi Talla, Shyam Gollakota, David Wetherall, Joshua R. Smith, SIGCOMM, Hong Kong, August 12-16, 2013. ***Best Paper***
+Ambient Backscatter: Wireless Communication out of Thin Air, Vincent Liu, Aaron Parks, Vamsi Talla, Shyam Gollakota, David Wetherall, Joshua R. Smith, SIGCOMM, Hong Kong, August 12-16, 2013. ***Best Paper***
  
-# Enabling Seamless Wireless Power Delivery in Dynamic Environments, Alanson P. Sample, Benjamin H. Waters, Scott T. Wisdom, Joshua R. Smith, Proceedings of the IEEE, Vol 101, No 6, pp. 1343-1358, June 2013.
+Enabling Seamless Wireless Power Delivery in Dynamic Environments, Alanson P. Sample, Benjamin H. Waters, Scott T. Wisdom, Joshua R. Smith, Proceedings of the IEEE, Vol 101, No 6, pp. 1343-1358, June 2013.
  
-# Evaluation of Wireless Resonant Power Transfer Systems with Human Electromagnetic Exposure Limits, Andreas Christ, Mark G. Douglas, John Roman, Emily B. Cooper, Alanson P. Sample, Benjamin H. Waters, Joshua R. Smith, Niels Kuster, IEEE Transactions on Electromagnetic Compatibility, vol. pp, no. 99, pp. 1-10, October 2012.
+Evaluation of Wireless Resonant Power Transfer Systems with Human Electromagnetic Exposure Limits, Andreas Christ, Mark G. Douglas, John Roman, Emily B. Cooper, Alanson P. Sample, Benjamin H. Waters, Joshua R. Smith, Niels Kuster, IEEE Transactions on Electromagnetic Compatibility, vol. pp, no. 99, pp. 1-10, October 2012.
  
-# Design Considerations for Asymmetric Magnetically Coupled Resonators used in Wireless Power Transfer Applications, Gunbok Lee, Benjamin Waters, Chen Shi, W. Park, Joshua R. Smith, IEEE Topical Meeting on Biomedical Wireless Technologies, Networks and Sensing Systems (BioWireless), Austin, TX, January 20-23 2013.
+Design Considerations for Asymmetric Magnetically Coupled Resonators used in Wireless Power Transfer Applications, Gunbok Lee, Benjamin Waters, Chen Shi, W. Park, Joshua R. Smith, IEEE Topical Meeting on Biomedical Wireless Technologies, Networks and Sensing Systems (BioWireless), Austin, TX, January 20-23 2013.
  
-# A Wireless Sensing Platform Utilizing Ambient RF Energy, Aaron Parks, Alanson Sample, Yi Zhao, Joshua R. Smith, IEEE Topical Meeting on Wireless Sensors and Sensor Networks (WiSNET), Austin, TX, January 20-23 2013.
+A Wireless Sensing Platform Utilizing Ambient RF Energy, Aaron Parks, Alanson Sample, Yi Zhao, Joshua R. Smith, IEEE Topical Meeting on Wireless Sensors and Sensor Networks (WiSNET), Austin, TX, January 20-23 2013.
  
-# Hybrid Analog-Digital Backscatter Platform for High Data Rate, Battery-Free Sensing, Vamsi Talla, Michael Buettner, David Wetherall, Joshua R. Smith, IEEE Topical Meeting on Wireless Sensors and Sensor Networks (WiSNET), Austin, TX, January 20-23 2013.
+Hybrid Analog-Digital Backscatter Platform for High Data Rate, Battery-Free Sensing, Vamsi Talla, Michael Buettner, David Wetherall, Joshua R. Smith, IEEE Topical Meeting on Wireless Sensors and Sensor Networks (WiSNET), Austin, TX, January 20-23 2013.
  
-# Power Consumption Analysis of Bluetooth Low Energy, ZigBee, and ANT Sensor Nodes in Cyclic Sleep Scenario, Artem Dementyev, Stuart Taylor, Joshua R. Smith, Steven Hodges, IEEE International Wireless Symposium, Beijing, China, April 14-18 2013.
+Power Consumption Analysis of Bluetooth Low Energy, ZigBee, and ANT Sensor Nodes in Cyclic Sleep Scenario, Artem Dementyev, Stuart Taylor, Joshua R. Smith, Steven Hodges, IEEE International Wireless Symposium, Beijing, China, April 14-18 2013.
  
-# Adaptive Impedance Matching for Magnetically Coupled Resonators, Benjamin H. Waters, Alanson P. Sample, Joshua R. Smith, PIERS Proceedings; pp. 694-701, Moscow, Russia, August 19-23, 2012.
+Adaptive Impedance Matching for Magnetically Coupled Resonators, Benjamin H. Waters, Alanson P. Sample, Joshua R. Smith, PIERS Proceedings; pp. 694-701, Moscow, Russia, August 19-23, 2012.
  
-# Printed Low Power Amperometric Gas Sensor Employing RF Energy Harvesting, M.T. Carter, J.R. Stetter, J.R. Smith, A.N. Parks, Y. Zhao, M.W. Findlay, V. Patel, The Electrochemical Society, January 2012.
+Printed Low Power Amperometric Gas Sensor Employing RF Energy Harvesting, M.T. Carter, J.R. Stetter, J.R. Smith, A.N. Parks, Y. Zhao, M.W. Findlay, V. Patel, The Electrochemical Society, January 2012.
  
-# Powering a Ventricular Assist Device (VAD) with the Free-Range Resonant Electrical Energy Delivery (FREE-D) System, Benjamin H. Waters, Alanson P. Sample, Pramod Bonde, Joshua R. Smith, Proceedings of the IEEE , vol.100, no.1, pp.138-49, January 2012.
+Powering a Ventricular Assist Device (VAD) with the Free-Range Resonant Electrical Energy Delivery (FREE-D) System, Benjamin H. Waters, Alanson P. Sample, Pramod Bonde, Joshua R. Smith, Proceedings of the IEEE , vol.100, no.1, pp.138-49, January 2012.
  
-# Promise of unrestricted mobility and freedom with wireless powering of a Ventricular Assist Device (VAD), Benjamin Waters, Alanson Sample, Joshua Smith, Pramod Bonde, 19th congress of the International Society of Rotary Blood Pumps, Louisville, KY, September 8th to 10th, 2011. ***Awarded the Sezai Innovation Research Award***
+Promise of unrestricted mobility and freedom with wireless powering of a Ventricular Assist Device (VAD), Benjamin Waters, Alanson Sample, Joshua Smith, Pramod Bonde, 19th congress of the International Society of Rotary Blood Pumps, Louisville, KY, September 8th to 10th, 2011. ***Awarded the Sezai Innovation Research Award***
  
-# Numerical Electromagnetic Analysis of Human Exposure for Wireless Power Transfer Systems, Andreas Christ, Mark G. Douglas, John Roman, Emily B. Cooper, Alanson P. Sample, Joshua R. Smith, Niels Kuster, Proceedings of the Tenth International Congress of the European Bioelectromagnetics Association (EBEA 2011), Rome, Italy, February 21-24, 2011.
+Numerical Electromagnetic Analysis of Human Exposure for Wireless Power Transfer Systems, Andreas Christ, Mark G. Douglas, John Roman, Emily B. Cooper, Alanson P. Sample, Joshua R. Smith, Niels Kuster, Proceedings of the Tenth International Congress of the European Bioelectromagnetics Association (EBEA 2011), Rome, Italy, February 21-24, 2011.
  
-# Analysis, Experimental Results, and Range Adaptation of Magnetically Coupled Resonators for Wireless Power Transfer, Alanson P. Sample, David T. Meyer, Joshua R. Smith, IEEE Transactions on Industrial Electronics, Vol. 58, No. 2, February 2011.
+Analysis, Experimental Results, and Range Adaptation of Magnetically Coupled Resonators for Wireless Power Transfer, Alanson P. Sample, David T. Meyer, Joshua R. Smith, IEEE Transactions on Industrial Electronics, Vol. 58, No. 2, February 2011.
  
-# Experimental Results with two Wireless Power Transfer Systems, Alanson Sample, Joshua R. Smith, 2009 IEEE Radio and Wireless Symposium (RawCon 2009), 2009.
+Experimental Results with two Wireless Power Transfer Systems, Alanson Sample, Joshua R. Smith, 2009 IEEE Radio and Wireless Symposium (RawCon 2009), 2009.
  
-# Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices, First Person, Second Guy, Main Person, Imaginary Proceedings, August 2017. ***Best Paper***
+Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices, First Person, Second Guy, Main Person, Imaginary Proceedings, August 2017. ***Best Paper***
  
-# Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices, First Person, Second Guy, Main Person, Imaginary Proceedings, August 2017. ***Best Paper***
+Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices, First Person, Second Guy, Main Person, Imaginary Proceedings, August 2017. ***Best Paper***
  
-# Robotics
+Robotics
 	 
-# Improved Proximity, Contact, and Force Sensing via Optimization of Elastomer-Air Interface Geometry, Patrick E. Lancaster, Joshua R. Smith, Siddhartha S. Srinivasa, IEEE International Conference on Robotics and Automation, May 2019.
+Improved Proximity, Contact, and Force Sensing via Optimization of Elastomer-Air Interface Geometry, Patrick E. Lancaster, Joshua R. Smith, Siddhartha S. Srinivasa, IEEE International Conference on Robotics and Automation, May 2019.
  
-# Pre-touch Sensing for Sequential Manipulation, Boling Yang, Patrick Lancaster, Joshua R. Smith, Proceedings of ICRA 2017, May 2017. ******
+Pre-touch Sensing for Sequential Manipulation, Boling Yang, Patrick Lancaster, Joshua R. Smith, Proceedings of ICRA 2017, May 2017. ******
  
-# Transmissive Optical Pretouch Sensing for Robotic Grasping, Di Guo, Patrick Lancaster, Liang-Ting Jiang, Fuchun Sun, Joshua R. Smith, Intelligent Robots and Systems (IROS), 2015 IEEE/RSJ International Conference on, Hamburg, pp. 5891-5897, 2015. ******
+Transmissive Optical Pretouch Sensing for Robotic Grasping, Di Guo, Patrick Lancaster, Liang-Ting Jiang, Fuchun Sun, Joshua R. Smith, Intelligent Robots and Systems (IROS), 2015 IEEE/RSJ International Conference on, Hamburg, pp. 5891-5897, 2015. ******
  
-# Physical human interactive guidance: Identifying grasping principles from human-planned grasps, R Balasubramanian, L Xu, PD Brook, JR Smith, Y Matsuoka, The Human Hand as an Inspiration for Robot Hand Development, pp 477-500, Springer, 2014. ******
+Physical human interactive guidance: Identifying grasping principles from human-planned grasps, R Balasubramanian, L Xu, PD Brook, JR Smith, Y Matsuoka, The Human Hand as an Inspiration for Robot Hand Development, pp 477-500, Springer, 2014. ******
  
-# A Unified Framework for Grasping and Shape Acquisition Via Pretouch Sensing, Liang-Ting Jiang, Joshua R. Smith, IEEE International Conference on Robotics ans Automation (ICRA), Karlsruhe, Germany, May 6-10, 2013. ******
+A Unified Framework for Grasping and Shape Acquisition Via Pretouch Sensing, Liang-Ting Jiang, Joshua R. Smith, IEEE International Conference on Robotics ans Automation (ICRA), Karlsruhe, Germany, May 6-10, 2013. ******
  
-# Pretouch Sensing for Manipulation, Liang-Ting Jiang, Joshua R. Smith, Robotics: Science and Systems (RSS) Workshop: Alternative Sensing Techniques for Robotic Perception, Jul 11-12, 2012. ******
+Pretouch Sensing for Manipulation, Liang-Ting Jiang, Joshua R. Smith, Robotics: Science and Systems (RSS) Workshop: Alternative Sensing Techniques for Robotic Perception, Jul 11-12, 2012. ******
  
-# Seashell Effect Pretouch Sensing for Robotic Grasping, Liang-Ting Jiang, Joshua R. Smith, IEEE International Conference on Robotics ans Automation (ICRA), St.Paul, USA, May 5-12, 2012. ******
+Seashell Effect Pretouch Sensing for Robotic Grasping, Liang-Ting Jiang, Joshua R. Smith, IEEE International Conference on Robotics ans Automation (ICRA), St.Paul, USA, May 5-12, 2012. ******
  
-# Interactive Singulation of Objects from a Pile, Lillian Chang, Joshua R. Smith, Dieter Fox, IEEE International Conference on Robotics ans Automation (ICRA), May 5-12, 2012. ******
+Interactive Singulation of Objects from a Pile, Lillian Chang, Joshua R. Smith, Dieter Fox, IEEE International Conference on Robotics ans Automation (ICRA), May 5-12, 2012. ******
  
-# Automatic Extraction of Command Hierarchies for Adaptive Brain-Robot Interfacing, Matthew Bryan, Griffin Nicoll, Vibinash Thomas, Mike Chung, Joshua R. Smith, Rajesh P. N. Rao, Proceedings of ICRA 2012, May 5-12, 2012. ******
+Automatic Extraction of Command Hierarchies for Adaptive Brain-Robot Interfacing, Matthew Bryan, Griffin Nicoll, Vibinash Thomas, Mike Chung, Joshua R. Smith, Rajesh P. N. Rao, Proceedings of ICRA 2012, May 5-12, 2012. ******
  
-# [MISSING Link]Gambit: An Autonomous Chess-Playing Robotic System, Cynthia Matuszek, Brian Mayton, Roberto Aimi, Lifeng Bo, Marc Peter Deisenroth, Robert Chu, Michael Kung, Joshua R. Smith, Dieter Fox, Proceedings of ICRA, Shanghai, China, May 9-13, 2011. ******
+[MISSING Link]Gambit: An Autonomous Chess-Playing Robotic System, Cynthia Matuszek, Brian Mayton, Roberto Aimi, Lifeng Bo, Marc Peter Deisenroth, Robert Chu, Michael Kung, Joshua R. Smith, Dieter Fox, Proceedings of ICRA, Shanghai, China, May 9-13, 2011. ******
  
-# Robot, Feed Thyself: Plugging in to Unmodified Electrical Outlets by Sensing Emitted AC Electric Fields, Brian Mayton, Louis LeGrand, Joshua R. Smith, Proceedings of the 2010 IEEE International Conference on Robotics and Automation (ICRA 2010), 2010. ******
+Robot, Feed Thyself: Plugging in to Unmodified Electrical Outlets by Sensing Emitted AC Electric Fields, Brian Mayton, Louis LeGrand, Joshua R. Smith, Proceedings of the 2010 IEEE International Conference on Robotics and Automation (ICRA 2010), 2010. ******
  
-# An Electric Field Pretouch System for Grasping and Co-Manipulation, Brian Mayton, Louis LeGrand, Joshua R. Smith, Proceedings of the 2010 IEEE International Conference on Robotics and Automation (ICRA 2010), 2010. ******
+An Electric Field Pretouch System for Grasping and Co-Manipulation, Brian Mayton, Louis LeGrand, Joshua R. Smith, Proceedings of the 2010 IEEE International Conference on Robotics and Automation (ICRA 2010), 2010. ******
  
-# Human-Guided Grasp Measures Improve Grasp Robustness on a Physical Robot, Ravi Balasubramanian, Ling Xu, Peter Brook, Joshua R. Smith, Yoky Matsuoka, Proceedings of the 2010 IEEE International Conference on Robotics and Automation (ICRA 2010), 2010. ******
+Human-Guided Grasp Measures Improve Grasp Robustness on a Physical Robot, Ravi Balasubramanian, Ling Xu, Peter Brook, Joshua R. Smith, Yoky Matsuoka, Proceedings of the 2010 IEEE International Conference on Robotics and Automation (ICRA 2010), 2010. ******
  
-# A Spotlight on Security and Privacy Risks with Future Household Robots: Attacks and Lessons, Tamara Denning, Cynthia Matuszek, Karl Koscher, Joshua R. Smith, Tadayoshi Kohno, In the Proceedings of the 11th International Conference on Ubiquitous Computing (UbiComp 2009), September 30th -- October 3rd 2009. Click here for FAQ. ******
+A Spotlight on Security and Privacy Risks with Future Household Robots: Attacks and Lessons, Tamara Denning, Cynthia Matuszek, Karl Koscher, Joshua R. Smith, Tadayoshi Kohno, In the Proceedings of the 11th International Conference on Ubiquitous Computing (UbiComp 2009), September 30th -- October 3rd 2009. Click here for FAQ. ******
  
-# Electric Field Servoing for Robotic Manipulation, Ryan Wistort, Joshua R. Smith, Proceedings of IEEE/RSJ 2008 International Conference on Intelligent Robots and Systems (IROS 2008), 2008. ******
+Electric Field Servoing for Robotic Manipulation, Ryan Wistort, Joshua R. Smith, Proceedings of IEEE/RSJ 2008 International Conference on Intelligent Robots and Systems (IROS 2008), 2008. ******
  
-# Electric Field Imaging Pretouch for Robotic Graspers, Joshua R. Smith, Eric Garcia, Ryan Wistort, Ganesh Krishnamoorthy, IEEE/RSJ 2007 International Conference on Intelligent Robots and Systems (IROS 2007), 2007. ******
+Electric Field Imaging Pretouch for Robotic Graspers, Joshua R. Smith, Eric Garcia, Ryan Wistort, Ganesh Krishnamoorthy, IEEE/RSJ 2007 International Conference on Intelligent Robots and Systems (IROS 2007), 2007. ******
  
-# Physical human interactive guidance: Identifying grasping principles from human-planned grasps, R Balasubramanian, L Xu, PD Brook, JR Smith, Y Matsuoka, The Human Hand as an Inspiration for Robot Hand Development, pp 477-500, Springer, 2014. ******
+Physical human interactive guidance: Identifying grasping principles from human-planned grasps, R Balasubramanian, L Xu, PD Brook, JR Smith, Y Matsuoka, The Human Hand as an Inspiration for Robot Hand Development, pp 477-500, Springer, 2014. ******
  
-# 2D and 3D Millimeter-Wave Synthetic Aperture Radar Imaging on a PR2 Platform, Claire M Watts, Patrick Lancaster, Andreas Pedross-Engel, Joshua R Smith, Matthew S Reynolds, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2016), October, 2016. ******
+2D and 3D Millimeter-Wave Synthetic Aperture Radar Imaging on a PR2 Platform, Claire M Watts, Patrick Lancaster, Andreas Pedross-Engel, Joshua R Smith, Matthew S Reynolds, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2016), October, 2016. ******
  
-# RFID Sensing and WISP (Wireless Identification and Sensing Platform)
+RFID Sensing and WISP (Wireless Identification and Sensing Platform)
 	 
-# Battery_Free Video Streaming Camera System, Ali Saffari, Mehrdad Hessar, Saman Naderiparizi, Joshua R. Smith, IEEE International Conference on RFID (RFID), April, 2019.
+Battery_Free Video Streaming Camera System, Ali Saffari, Mehrdad Hessar, Saman Naderiparizi, Joshua R. Smith, IEEE International Conference on RFID (RFID), April, 2019.
  
-# RF Bandaid: A Fully-Analog and Passive Wireless Interface for Wearable Sensors, VAISHNAVI RANGANATHAN, SIDHANT GUPTA, JONATHAN LESTER, JOSHUA R. SMITH, DESNEY TAN, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, June 2018. ******
+RF Bandaid: A Fully-Analog and Passive Wireless Interface for Wearable Sensors, VAISHNAVI RANGANATHAN, SIDHANT GUPTA, JONATHAN LESTER, JOSHUA R. SMITH, DESNEY TAN, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, June 2018. ******
  
-# RF-powered, Backscatter-based Cameras, Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith, IEEE 11th European Conference on Antennas and Propagation (EUCAP), pp. 346-349, 2017. ******
+RF-powered, Backscatter-based Cameras, Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith, IEEE 11th European Conference on Antennas and Propagation (EUCAP), pp. 346-349, 2017. ******
  
-# Wisent: Robust downstream communication and storage for computational RFIDs, Jethro Tan, Przemysław Pawełczak, Aaron Parks, Joshua R Smith, IEEE INFOCOMM, The 35th Annual IEEE International Conference on Computer Communications, April 2016. ******
+Wisent: Robust downstream communication and storage for computational RFIDs, Jethro Tan, Przemysław Pawełczak, Aaron Parks, Joshua R Smith, IEEE INFOCOMM, The 35th Annual IEEE International Conference on Computer Communications, April 2016. ******
  
-# Fast Downstream to Many (Computational) RFIDs, Henko Aantjes, Amjad Y Majid, Przemyslaw Pawelczak, Jethro Tan, Aaron Parks, Joshua R Smith, Proc. IEEE INFOCOM 2017, June 14, 2017. ******
+Fast Downstream to Many (Computational) RFIDs, Henko Aantjes, Amjad Y Majid, Przemyslaw Pawelczak, Jethro Tan, Aaron Parks, Joshua R Smith, Proc. IEEE INFOCOM 2017, June 14, 2017. ******
  
-# BLISP: Enhancing backscatter radio with active radio for computational RFIDs, Ivar in't Veen, Qingzhi Liu, Przemyslaw Pawelczak, Aaron Parks, Joshua R Smith, 2016 IEEE International Conference on RFID (IEEE RFID 2016), May 2016. ******
+BLISP: Enhancing backscatter radio with active radio for computational RFIDs, Ivar in't Veen, Qingzhi Liu, Przemyslaw Pawelczak, Aaron Parks, Joshua R Smith, 2016 IEEE International Conference on RFID (IEEE RFID 2016), May 2016. ******
  
-# WISPCam: An RF-Powered Smart Camera for Machine Vision Applications, Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith, ASPLOS HLPC Workshop, April 2016. ******
+WISPCam: An RF-Powered Smart Camera for Machine Vision Applications, Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith, ASPLOS HLPC Workshop, April 2016. ******
  
-# Battery-Free Connected Machine Vision with WISPCam, Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith, GetMobile Magazine, January 2016. ******
+Battery-Free Connected Machine Vision with WISPCam, Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith, GetMobile Magazine, January 2016. ******
  
-# NFC-WISP: an open source software defined near field RFID sensing platform, Yi Zhao, Joshua R. Smith, Alanson Sample, Ubicomp, September 7, 2015. ******
+NFC-WISP: an open source software defined near field RFID sensing platform, Yi Zhao, Joshua R. Smith, Alanson Sample, Ubicomp, September 7, 2015. ******
  
-# Self-Localizing Battery-Free Cameras, Saman Naderiparizi, Yi Zhao, James Youngquist, Alanson P. Sample, Joshua R. Smith, Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing. ACM, September 7, 2015. ******
+Self-Localizing Battery-Free Cameras, Saman Naderiparizi, Yi Zhao, James Youngquist, Alanson P. Sample, Joshua R. Smith, Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing. ACM, September 7, 2015. ******
  
-# WISPCam: A Battery-Free RFID Camera, Saman Naderiparizi, Aaron N. Parks, Zerina Kapetanovic, Benjamin Ransford, Joshua R. Smith, IEEE RFID, April 15-17 2015. ******
+WISPCam: A Battery-Free RFID Camera, Saman Naderiparizi, Aaron N. Parks, Zerina Kapetanovic, Benjamin Ransford, Joshua R. Smith, IEEE RFID, April 15-17 2015. ******
  
-# A battery-free object localization and motion sensing platform, Yi Zhao, Anthony LaMarca, Joshua R. Smith, UbiComp, September 2014. ***Best Paper Nominee***
+A battery-free object localization and motion sensing platform, Yi Zhao, Anthony LaMarca, Joshua R. Smith, UbiComp, September 2014. ***Best Paper Nominee***
  
-# Wirelessly Powered Bistable Display Tags, Artem Dementyev, Jeremy Gummeson, Derek Thrasher, Aaron Parks, Deepak Ganesan, Joshua R Smith, Alanson P. Sample, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), Zurich, Switzerland, September 2013. ******
+Wirelessly Powered Bistable Display Tags, Artem Dementyev, Jeremy Gummeson, Derek Thrasher, Aaron Parks, Deepak Ganesan, Joshua R Smith, Alanson P. Sample, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), Zurich, Switzerland, September 2013. ******
  
-# Hybrid Analog-Digital Backscatter: A New Approach for Battery-Free Sensing, Vamsi Talla, Joshua R. Smith, Proceedings of IEEE RFID, Orlando, Florida, April 2013. ***Nominated for best paper award***
+Hybrid Analog-Digital Backscatter: A New Approach for Battery-Free Sensing, Vamsi Talla, Joshua R. Smith, Proceedings of IEEE RFID, Orlando, Florida, April 2013. ***Nominated for best paper award***
  
-# A Wearable UHF RFID-Based EEG System, Artem Dementyev, Joshua R. Smith, Proceedings of IEEE RFID, Orlando, Florida, April 2013. ******
+A Wearable UHF RFID-Based EEG System, Artem Dementyev, Joshua R. Smith, Proceedings of IEEE RFID, Orlando, Florida, April 2013. ******
  
-# A battery-free RFID-based indoor acoustic localization platform, Yi Zhao, Joshua R. Smith, Proceedings of IEEE RFID, Orlando, Florida, April 2013. ******
+A battery-free RFID-based indoor acoustic localization platform, Yi Zhao, Joshua R. Smith, Proceedings of IEEE RFID, Orlando, Florida, April 2013. ******
  
-# Optical Localization of Passive UHF RFID Tags with Integrated LEDs, Alanson Sample, Craig Macomber, Liang-Ting Jiang, Joshua R. Smith, Proceedings of the 2012 IEEE RFID Conference, April 3-5, 2012. ******
+Optical Localization of Passive UHF RFID Tags with Integrated LEDs, Alanson Sample, Craig Macomber, Liang-Ting Jiang, Joshua R. Smith, Proceedings of the 2012 IEEE RFID Conference, April 3-5, 2012. ******
  
-# Photovoltaic Enhanced UHF RFID Tag Antennas for Dual Purpose Energy Harvesting, A. Sample, A. Parks, J.R. Smith, IEEE RFID, 2011. ******
+Photovoltaic Enhanced UHF RFID Tag Antennas for Dual Purpose Energy Harvesting, A. Sample, A. Parks, J.R. Smith, IEEE RFID, 2011. ******
  
-# RFID: From Supply Chains to Sensor Nets, S. Roy, V. Jandhyala, J.R. Smith, D.J. Wetherall, B.P. Otis, R. Chakraborty, M. Buettner, D.J. Yeager, Y.-C. Ko, A.P. Sample, Proceedings of the IEEE, vol.98, no.9, pp.1583-1592, September 2010. ******
+RFID: From Supply Chains to Sensor Nets, S. Roy, V. Jandhyala, J.R. Smith, D.J. Wetherall, B.P. Otis, R. Chakraborty, M. Buettner, D.J. Yeager, Y.-C. Ko, A.P. Sample, Proceedings of the IEEE, vol.98, no.9, pp.1583-1592, September 2010. ******
  
-# A Capacitive Touch Interface for Passive RFID Tags, Alanson P. Sample, Daniel J. Yeager, Joshua R. Smith, Proceedings of the 2009 IEEE International Conference on RFID, April 2009. ***Winner of Best Paper Award!***
+A Capacitive Touch Interface for Passive RFID Tags, Alanson P. Sample, Daniel J. Yeager, Joshua R. Smith, Proceedings of the 2009 IEEE International Conference on RFID, April 2009. ***Winner of Best Paper Award!***
  
-# NeuralWISP: A Wirelessly-Powered Neural Interface with 1-m Range, D. Yeager, J. Holleman, R. Prasad, J.R. Smith, B. Otis, IEEE Transactions on Biomedical Circuits and Systems, 2008. ******
+NeuralWISP: A Wirelessly-Powered Neural Interface with 1-m Range, D. Yeager, J. Holleman, R. Prasad, J.R. Smith, B. Otis, IEEE Transactions on Biomedical Circuits and Systems, 2008. ******
  
-# NeuralWISP: An Energy-Harvesting Wireless Neural Interface with 1-m Range, Jeremy Holleman, Dan Yeager, Richa Prasad, Joshua R. Smith, Brian Otis, BioCAS 2008, 2008. ******
+NeuralWISP: An Energy-Harvesting Wireless Neural Interface with 1-m Range, Jeremy Holleman, Dan Yeager, Richa Prasad, Joshua R. Smith, Brian Otis, BioCAS 2008, 2008. ******
  
-# Demonstration: RFID Sensor Networks with the Intel WISP, Michael Buettner, Ben Greenstein, Richa Prasad, Alanson Sample, Joshua R. Smith, Daniel Yeager, David Wetherall, 6th ACM Conference on Embedded Networked Sensor Systems (Sensys 2008), 2008. ***Winner of Best Demo award!***
+Demonstration: RFID Sensor Networks with the Intel WISP, Michael Buettner, Ben Greenstein, Richa Prasad, Alanson Sample, Joshua R. Smith, Daniel Yeager, David Wetherall, 6th ACM Conference on Embedded Networked Sensor Systems (Sensys 2008), 2008. ***Winner of Best Demo award!***
  
-# RFIDs and Secret Handshakes: Defending Against Ghost-and-Leech Attacks and Unauthorized Reads with Context-Aware Communications, Alexei Czeskis, Karl Koscher, Joshua R. Smith, Tadayoshi Kohno, 15th ACM Conference on Computer and Communications Security, October 27-31, 2008. ******
+RFIDs and Secret Handshakes: Defending Against Ghost-and-Leech Attacks and Unauthorized Reads with Context-Aware Communications, Alexei Czeskis, Karl Koscher, Joshua R. Smith, Tadayoshi Kohno, 15th ACM Conference on Computer and Communications Security, October 27-31, 2008. ******
  
-# Revisiting Smart Dust with RFID Sensor Networks, Michael Buettner, Ben Greenstein, Alanson Sample, Joshua R. Smith, Seventh ACM Workshop on Hot Topics in Networks (HotNets-VII), Alberta, Canada, Oct 6-7 2008. ******
+Revisiting Smart Dust with RFID Sensor Networks, Michael Buettner, Ben Greenstein, Alanson Sample, Joshua R. Smith, Seventh ACM Workshop on Hot Topics in Networks (HotNets-VII), Alberta, Canada, Oct 6-7 2008. ******
  
-# WISP: A Passively Powered UHF RFID Tag with Sensing and Computation, Daniel J. Yeager, Alanson P. Sample, Joshua R. Smith in S.A. Ahson, M. Ilyas Eds, RFID Handbook: Applications, Technology, Security, and Privacy, CRC Press. ******
+WISP: A Passively Powered UHF RFID Tag with Sensing and Computation, Daniel J. Yeager, Alanson P. Sample, Joshua R. Smith in S.A. Ahson, M. Ilyas Eds, RFID Handbook: Applications, Technology, Security, and Privacy, CRC Press. ******
  
-# Design of an RFID-Based Battery-Free Programmable Sensing Platform, Alanson P. Sample, Daniel J. Yeager, Pauline S. Powledge, Alexander V. Mamishev, Joshua R. Smith, IEEE Transactions on Instrumentation and Measurement, Vol. 57, No. 11, pp. 2608-2615, Nov. 2008. ******
+Design of an RFID-Based Battery-Free Programmable Sensing Platform, Alanson P. Sample, Daniel J. Yeager, Pauline S. Powledge, Alexander V. Mamishev, Joshua R. Smith, IEEE Transactions on Instrumentation and Measurement, Vol. 57, No. 11, pp. 2608-2615, Nov. 2008. ******
  
-# Wirelessly-Charged UHF Tags for Sensor Data Collection, Daniel Yeager, Richa Praad, David Wetherall, Pauline Powledge, Joshua Smith, IEEE International Conference on RFID, 2008. ******
+Wirelessly-Charged UHF Tags for Sensor Data Collection, Daniel Yeager, Richa Praad, David Wetherall, Pauline Powledge, Joshua Smith, IEEE International Conference on RFID, 2008. ******
  
-# RFID MAC Performance Evaluation Based on ISO/IEC 18000-6 Type C, You-Chang Ko, Sumit Roy, Joshua R. Smith, Hyong-Woo Lee, Choong-Ho Cho, IEEE Communications Letters, Vol. 12, No. 6, June 2008. ******
+RFID MAC Performance Evaluation Based on ISO/IEC 18000-6 Type C, You-Chang Ko, Sumit Roy, Joshua R. Smith, Hyong-Woo Lee, Choong-Ho Cho, IEEE Communications Letters, Vol. 12, No. 6, June 2008. ******
  
-# An Enhanced RFID Multiple Access Protocol for Fast Inventory, You-Chang Ko, Sumit Roy, Joshua R. Smith, Hyung-Woo Lee, Choong-Ho Cho, IEEE Globecom, 2007. ******
+An Enhanced RFID Multiple Access Protocol for Fast Inventory, You-Chang Ko, Sumit Roy, Joshua R. Smith, Hyung-Woo Lee, Choong-Ho Cho, IEEE Globecom, 2007. ******
  
-# Maximalist cryptography and computation on the WISP UHF RFID tag, Hee-Jin Chae, Daniel J. Yeager, Joshua R. Smith, Kevin Fu, In Proceedings of the Conference on RFID Security, July 2007. ******
+Maximalist cryptography and computation on the WISP UHF RFID tag, Hee-Jin Chae, Daniel J. Yeager, Joshua R. Smith, Kevin Fu, In Proceedings of the Conference on RFID Security, July 2007. ******
  
-# Design of a Passively-Powered, Programmable Sensing Platform for UHF RFID Systems, Alanson P. Sample, Daniel J. Yeager, Pauline S. Powledge, Joshua R. Smith, IEEE International Conference on RFID, March 26-28, 2007. ******
+Design of a Passively-Powered, Programmable Sensing Platform for UHF RFID Systems, Alanson P. Sample, Daniel J. Yeager, Pauline S. Powledge, Joshua R. Smith, IEEE International Conference on RFID, March 26-28, 2007. ******
  
-# Energy scavenging for inductively coupled passive RFID systems, B. Jiang, J. R. Smith, M. Philipose, S. Roy, K. Sundara-Rajan, A. Mamishev , IEEE Transactions on Instrumentation and Measurement, Vol. 56, No. 1, pp. 118-125., February 2007. ******
+Energy scavenging for inductively coupled passive RFID systems, B. Jiang, J. R. Smith, M. Philipose, S. Roy, K. Sundara-Rajan, A. Mamishev , IEEE Transactions on Instrumentation and Measurement, Vol. 56, No. 1, pp. 118-125., February 2007. ******
  
-# A wirelessly powered platform for sensing and computation, Joshua R. Smith, Alanson Sample, Pauline Powledge, Alexander Mamishev, Sumit Roy, Proceedings of Ubicomp 2006: 8th International Conference on Ubiquitous Computing. Orange Country, CA, USA, pp. 495-506, September 17-21 2006. ******
+A wirelessly powered platform for sensing and computation, Joshua R. Smith, Alanson Sample, Pauline Powledge, Alexander Mamishev, Sumit Roy, Proceedings of Ubicomp 2006: 8th International Conference on Ubiquitous Computing. Orange Country, CA, USA, pp. 495-506, September 17-21 2006. ******
  
-# RFID-Based Techniques for Human Activity Recognition, Joshua R. Smith, Kenneth P. Fishkin , Bing Jiang, Alexander Mamishev, Matthai Philipose, Adam Rea , Sumit Roy, Kishore Sundara-Rajan, Communications of the ACM, v48, no. 9, Sep 2005. ******
+RFID-Based Techniques for Human Activity Recognition, Joshua R. Smith, Kenneth P. Fishkin , Bing Jiang, Alexander Mamishev, Matthai Philipose, Adam Rea , Sumit Roy, Kishore Sundara-Rajan, Communications of the ACM, v48, no. 9, Sep 2005. ******
  
-# ID Modulation: Embedding Sensor Data in an RFID Timeseries, Joshua R. Smith, Bing Jiang, Sumit Roy, Matthai Philipose, Kishore Sundara-Rajan, Alexander Mamishev, Proceedings of Information Hiding 2005, LNCS 3727, pp. 234-246, 2005. ******
+ID Modulation: Embedding Sensor Data in an RFID Timeseries, Joshua R. Smith, Bing Jiang, Sumit Roy, Matthai Philipose, Kishore Sundara-Rajan, Alexander Mamishev, Proceedings of Information Hiding 2005, LNCS 3727, pp. 234-246, 2005. ******
  
-# Energy Scavenging for Inductively Coupled Passive RFID Systems, Bing Jiang, Sumit Roy, Kishore Sundara-Rajan, Matthai Philipose, Joshua R. Smith, Alexander V. Mamishev, Proceedings of the IEEE Instrumentation and Measurement Technology Conference, Ottawa, Canada, pp. 984-989, May 17-19 2005. ******
+Energy Scavenging for Inductively Coupled Passive RFID Systems, Bing Jiang, Sumit Roy, Kishore Sundara-Rajan, Matthai Philipose, Joshua R. Smith, Alexander V. Mamishev, Proceedings of the IEEE Instrumentation and Measurement Technology Conference, Ottawa, Canada, pp. 984-989, May 17-19 2005. ******
  
-# Battery-Free Wireless Identification and Sensing, Matthai Philipose, Joshua R. Smith, Bing Jiang, Kishore Sundara-Rajan, Alexander Mamishev, Sumit Roy, IEEE Pervasive Computing, Vol. 4, No. 1, pp. 37-45, January-March 2005. ******
+Battery-Free Wireless Identification and Sensing, Matthai Philipose, Joshua R. Smith, Bing Jiang, Kishore Sundara-Rajan, Alexander Mamishev, Sumit Roy, IEEE Pervasive Computing, Vol. 4, No. 1, pp. 37-45, January-March 2005. ******
  
-# Data Hiding, Security, Sensing and Misc.
+Data Hiding, Security, Sensing and Misc.
 	 
-# Wireless Quantization Index Modulation: Enabling Communication Through Existing Signals, Zerina Kapetanovic, Vamsi Talla, Aaron Parks , Jing Qian, Joshua Smith, IEEE FID, 2018/4/10.
+Wireless Quantization Index Modulation: Enabling Communication Through Existing Signals, Zerina Kapetanovic, Vamsi Talla, Aaron Parks , Jing Qian, Joshua Smith, IEEE FID, 2018/4/10.
  
-# NeuralCLIP: A Modular FPGA-Based Neural Interface for Closed-Loop Operation, Vaishnavi Ranganathan, Jared Nakahara, Soshi Samejima, Nicholas Tolley, Abed Khorasani, Chet T. Moritz, Joshua R. Smith, 9th International IEEE EMBS Conference on Neural Engineering, March 20, 2019. ******
+NeuralCLIP: A Modular FPGA-Based Neural Interface for Closed-Loop Operation, Vaishnavi Ranganathan, Jared Nakahara, Soshi Samejima, Nicholas Tolley, Abed Khorasani, Chet T. Moritz, Joshua R. Smith, 9th International IEEE EMBS Conference on Neural Engineering, March 20, 2019. ******
  
-# Finding Common Ground: A Survey of Capacitive Sensing in Human-Computer Interaction, Tobias Grosse-Puppendahl, Christian Holz, Gabe Cohn, Raphael Wimmer, Oskar Bechtold, Steve Hodges, Matthew S Reynolds, Joshua R Smith, Proceedings of the 2017 ACM SIGCHI Conference (CHI 2017), May 6, 2017. ******
+Finding Common Ground: A Survey of Capacitive Sensing in Human-Computer Interaction, Tobias Grosse-Puppendahl, Christian Holz, Gabe Cohn, Raphael Wimmer, Oskar Bechtold, Steve Hodges, Matthew S Reynolds, Joshua R Smith, Proceedings of the 2017 ACM SIGCHI Conference (CHI 2017), May 6, 2017. ******
  
-# Imperceptible Sensory Channels, Joshua R. Smith, IEEE Computer, Vol. 37, No. 6, pp. 84-85, June 2004. ******
+Imperceptible Sensory Channels, Joshua R. Smith, IEEE Computer, Vol. 37, No. 6, pp. 84-85, June 2004. ******
  
-# Sensors, Tags, and Security, Joshua R. Smith, Proceedings of the State of Technology Conference on Mobile Wireless Technologies for Persons with Disabilities, Atlanta, GA, May 11-12 2004, pp. 60-66, May 11-12 2004. ******
+Sensors, Tags, and Security, Joshua R. Smith, Proceedings of the State of Technology Conference on Mobile Wireless Technologies for Persons with Disabilities, Atlanta, GA, May 11-12 2004, pp. 60-66, May 11-12 2004. ******
  
-# FiberFingerprint Identification, Eric Metois, Paul M. Yarin, Noah Salzman, Joshua R. Smith, Proceedings of the Third Workshop on Automatic Identification, Tarrytown, NY, March 2002, pp. 147-154, March 2002. ******
+FiberFingerprint Identification, Eric Metois, Paul M. Yarin, Noah Salzman, Joshua R. Smith, Proceedings of the Third Workshop on Automatic Identification, Tarrytown, NY, March 2002, pp. 147-154, March 2002. ******
  
-# Developments in Steganography, Joshua R. Smith, Christopher Dodge, Proceedings of Information Hiding: Third International Workshop, Dresden, Germany, September/October 1999. Springer-Verlag Lecture Notes in Computer Science, Vol. 1768, pp. 77-87., September/October 1999. ******
+Developments in Steganography, Joshua R. Smith, Christopher Dodge, Proceedings of Information Hiding: Third International Workshop, Dresden, Germany, September/October 1999. Springer-Verlag Lecture Notes in Computer Science, Vol. 1768, pp. 77-87., September/October 1999. ******
  
-# Microstructure-Based Indicia, Joshua R. Smith, Andrew V. Sutherland, Proceedings of the Second Workshop on Automatic Identification Advanced Technologies, Morristown, NJ. October 1999, pp. 79-83, October 1999. ******
+Microstructure-Based Indicia, Joshua R. Smith, Andrew V. Sutherland, Proceedings of the Second Workshop on Automatic Identification Advanced Technologies, Morristown, NJ. October 1999, pp. 79-83, October 1999. ******
  
-# Stealth Barcodes, Joshua R. Smith, Barrett Comiskey, Proceedings of the Workshop on Automatic Identification Advanced Technologies, Stony Brook, N.Y., November 1997. ******
+Stealth Barcodes, Joshua R. Smith, Barrett Comiskey, Proceedings of the Workshop on Automatic Identification Advanced Technologies, Stony Brook, N.Y., November 1997. ******
  
-# Distributed Protocols for ID Assignment, Joshua R. Smith, Proceedings of the First Workshop on Automatic Identification Advanced Technologies, Stony Brook, N.Y., November 1997. ******
+Distributed Protocols for ID Assignment, Joshua R. Smith, Proceedings of the First Workshop on Automatic Identification Advanced Technologies, Stony Brook, N.Y., November 1997. ******
  
-# Modulation and Information Hiding in Images, Joshua R. Smith, Barrett O. Comiskey, Presented at the Workshop on Information Hiding, Isaac Newton Institute, University of Cambridge, UK. Springer-Verlag Lecture Notes in Computer Science Volume 1174, pp. 207-226, May 1996. ******
+Modulation and Information Hiding in Images, Joshua R. Smith, Barrett O. Comiskey, Presented at the Workshop on Information Hiding, Isaac Newton Institute, University of Cambridge, UK. Springer-Verlag Lecture Notes in Computer Science Volume 1174, pp. 207-226, May 1996. ******
  
-# Field Mice: Extracting Hand Geometry From Electric Field Measurements, Joshua R. Smith, , 1996. ******
+Field Mice: Extracting Hand Geometry From Electric Field Measurements, Joshua R. Smith, , 1996. ******
  
-# Applying Electric Field Sensing to Human-Computer Interfaces, Tom Zimmerman, Joshua R. Smith, Joe Paradiso, David Allport, Neil Gershenfeld, Applying Electric Field Sensing to HumaProceedings of the ACM Conference on Human Factors in Computing Systems (CHI-95), May 1995. ******
+Applying Electric Field Sensing to Human-Computer Interfaces, Tom Zimmerman, Joshua R. Smith, Joe Paradiso, David Allport, Neil Gershenfeld, Applying Electric Field Sensing to HumaProceedings of the ACM Conference on Human Factors in Computing Systems (CHI-95), May 1995. ******
  
-# Lattice Polymer Automata, Steen Rasmussen, Joshua R. Smith, Berichte der BunsenGesellschaft fur Physikalische Chemie 98, No. 9, pp. 1185-1193, 1994. ******
+Lattice Polymer Automata, Steen Rasmussen, Joshua R. Smith, Berichte der BunsenGesellschaft fur Physikalische Chemie 98, No. 9, pp. 1185-1193, 1994. ******
  
-# Evolving Models of Dynamical Systems with a Genetic Algorithm, Joshua R. Smith, Donald House, Proceedings of IEE Colloquium on Genetic Algorithms for Control and Systems Engineering, London. IEE Digest 1992/106, April 1992. ******
+Evolving Models of Dynamical Systems with a Genetic Algorithm, Joshua R. Smith, Donald House, Proceedings of IEE Colloquium on Genetic Algorithms for Control and Systems Engineering, London. IEE Digest 1992/106, April 1992. ******
  
-# Designing Biomorphs with an Interactive Genetic Algorithm, Joshua R. Smith, Proceedings of the Fourth International Conference on Genetic Algorithms, University of California, San Diego, pp. 535-538. BUGSX (a re-written version of my BUGS code) is available in the Ubuntu Linux distribution under "games", June 1991. ******
+Designing Biomorphs with an Interactive Genetic Algorithm, Joshua R. Smith, Proceedings of the Fourth International Conference on Genetic Algorithms, University of California, San Diego, pp. 535-538. BUGSX (a re-written version of my BUGS code) is available in the Ubuntu Linux distribution under "games", June 1991. ******
  
