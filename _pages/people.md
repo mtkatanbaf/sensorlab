@@ -135,7 +135,7 @@ Jump to [Members](#members), [Alumni](#alumni), [Former visitors](#visitors).
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
-
+</div>
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -143,5 +143,5 @@ Jump to [Members](#members), [Alumni](#alumni), [Former visitors](#visitors).
 </div>
 {% endif %}
 
-</div>
+<!-- </div> -->
 
