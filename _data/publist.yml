@@ -1,322 +1,318 @@
-- title: "Direct comparison of ARPES, STM, and quantum oscillation data for band structure determination in Sr2RhO4"
-  image: Direct.png
-  authors: I Battisti, WO Tromp, S Riccò, RS Perry, AP Mackenzie, A Tamai, F Baumberger, MP Allan
-  description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
-  link:
-    url: https://www.nature.com/articles/s41535-020-00292-4
-    display:  npj Quantum Materials 5, 91 (2020)
-  highlight: 1
-  news2:
-
-- title: "Fabrication of on-chip probes for double-tip scanning tunneling microscopy"
-  image: TBG_ARPES.png
-  authors: M Leeuwenhoek, F Groenewoud, K van Oosten, T Benschop, MP Allan, S Gröblacher
-  description:
-  link:
-    url: https://www.nature.com/articles/s41378-020-00209-y
-    display:  Microsyst Nanoeng 6, 99 (2020)
-  highlight: 0
-  news2:
-
-- title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
-  image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: M Leeuwenhoek, S Gröblacher, MP Allan, YaM Blanter
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
-    display:  PRB 102, 115416 (2020)
-  highlight: 0
-  news2:
-
-- title: "Mapping local heterogeneity in open twisted bilayer graphene devices"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop*, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
-  link:
-    url: https://arxiv.org/abs/2008.13766
-    display:  arXiv:2008.13766 (2020)
-  highlight: 1
-  news2:
-
-- title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
-  image: YSR.png
-  description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
-  authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
-  link:
-    url: https://arxiv.org/abs/2006.12840
-    display:  arXiv:2006.12840 (2020)
-  highlight: 1
-
-- title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
-  image: TBG_ARPES.png
-  description:
-  authors: R Sharma, A Kreisel, MA Sulangi, J Böker, A Kostin, MP Allan, H Eisaki, AE Böhmer, PC Canfield, I Eremin, JC Davis, PJ Hirschfeld, PO Sprau
-  link:
-    url: https://arxiv.org/abs/2005.05140
-    display:  arXiv:2005.05140 (2020)
-  highlight: 0
-  news2:
-
-- title: "Observation of flat bands in twisted bilayer graphene"
-  image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: S Lisi*, X Lu*, T Benschop*, TA de Jong*, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger
-  link:
-    url: https://www.nature.com/articles/s41567-020-01041-x
-    display:  Nature Physics (2020)
-  highlight: 1
-  news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
-
-- title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
-  image: STS_news.png
-  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-  authors: D Cho* & KM Bastiaans* & D Chatzopoulos*, GD Gu, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41586-019-1408-8
-    display:  Nature 571, 541 (2019)
-  highlight: 1
-  news2:
-
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
-  link:
-    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
-    display: Nanotechnology 30, 335702 (2019)
-  highlight: 1
-  news2: See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.
-
-- title: "Imaging doubled shot noise in a Josephson scanning tunneling microscope"
-  image: PbSpub.png
-  description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
-  authors: KM Bastiaans, D Cho, D Chatzopoulos, M Leeuwenhoek, C Koks, MP Allan
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104506
-    display:  Phys. Rev. B 100, 104506 (2019)
-  highlight: 1
-  news2:
-
-- title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
-  image: DomePub.png
-  description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
-  authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
-  link:
-    url: https://aip.scitation.org/doi/10.1063/1.5064442
-    display:  Rev. Sci. Instrum. 89, 123705 (2018)
-  highlight: 1
-  news2:
-
-- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
-  image: Pub_BCl.png
-  description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Nature Physics 14, 1183 (2018)
-  highlight: 1
-  news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
-  news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
-
-- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
-  image: Fano.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: KM Bastiaans, T Benschop, D Chatzopoulos, D Cho, Q Dong, Y Jin, MP Allan
-  link:
-    url: https://aip.scitation.org/doi/10.1063/1.5043267
-    display:  Rev. Sci. Instrum. 89, 093709 (2018)
-  highlight: 0
-  news2:
-
-- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
+- title: "Improved Proximity, Contact, and Force Sensing via Optimization of Elastomer-Air Interface Geometry."
   image: dummy.png
   description: ""
-  authors: MA Sulangi, MP Allan, J Zaanen
+  authors: 
+    Patrick E. Lancaster, Joshua R. Smith, Siddhartha S. Srinivasa, 
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
-    display:  PRB 96, 134507 (2017)
-  highlight: 0
-  news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
-
-- title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
-  image: dummy.png
-  description: ""
-  authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
-  link:
-    url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
-    display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
+    url: 
+    display: IEEE International Conference on Robotics and Automation, May 2019.
   highlight: 0
   news2:
-
-- title: Creating better superconductors by periodic nanopatterning
-  image: SCAUweb.jpg
-  description:
-    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale.
-  authors:
-    MP Allan, MH Fischer, O Ostojic, A Andringa
-  link:
-    url: https://scipost.org/SciPostPhys.3.2.010/pdf
-    display: SciPost Phys. 3, 010 (2017)
-  highlight: 1
-
-- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
-  image: TIBB.png
-  description:
-    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing.
-  authors:
-    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
-  highlight: 0
-
-- title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
-  image: Mott_phase_sep.jpg
-  description:
-    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
-  authors:
-    I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
-    display: Nature Physics 13, 21 (2017)
-  highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a>
-
-- title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
-  image: Pub_FP.png
-  description:
-    Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
-  authors:
-    MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
-  link:
-    url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
-    display: Nature Physics 11, 177 (2015)
-  highlight: 1
-  news1:
-  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
-
-- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
+ 
+- title: "Battery_Free Video Streaming Camera System"
   image: dummy.png
   description: ""
-  authors:
-    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
+  authors: 
+    Ali Saffari, Mehrdad Hessar, Saman Naderiparizi, Joshua R. Smith
   link:
-    url: http://www.pnas.org/content/111/32/11663
-    display: PNAS 111, 11663 (2014)
-  highlight: 0
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
-  news2:
+    url:
+    display: IEEE International Conference on RFID (RFID), April, 2019.
 
-- title: Imaging Cooper pairing of heavy fermions in CeCoIn5
-  image: Pub_CeCoIn5.png
-  description:
-    The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
-  authors:
-    MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
-    display: Nature Physics 9, 468 (2013)
-  highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
-
-- title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
-  image: Pub_327.png
-  description:
-    Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
-  authors:
-    MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
-  link:
-    url: http://iopscience.iop.org/1367-2630/15/6/063029
-    display: New Journal of Physics 15, 063029 (2013)
-  highlight: 1
-  news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
-
-- title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
-  image: Pub_nemat2b.png
-  description:
-    We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
-  authors:
-    MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
-  highlight: 1
-  link:
-    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
-    display: Nature Physics 9, 220 (2013)
-  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
-
-- title: Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs
-  image: Pub_LiFeAs.png
-  description:
-    In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
-  authors:
-    MP Allan⋆ & AW Rost⋆, AP Mackenzie, Y Xie, JC Davis, K Kihou, CH Lee, A Iyo, H Eisaki, T-M Chuang
-  link:
-    url: http://www.sciencemag.org/content/336/6081/563
-    display: Science 336, 563 (2012)
-  highlight: 1
-  news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
-
-- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
+-title: "NeuralCLIP: A Modular FPGA-Based Neural Interface for Closed-Loop Operation"
   image: dummy.png
   description: ""
-  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
+  authors: 
+    Vaishnavi Ranganathan, Jared Nakahara, Soshi Samejima, Nicholas Tolley, Abed Khorasani, Chet T. Moritz, Joshua R. Smith
   link:
-    url: http://www.pnas.org/content/108/45/18233
-    display:  PNAS 108, 18233 (2011)
-  highlight: 0
-  news2:
-
-- title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
-  image: Pub_nemat1.png
-  description:
-    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
-  authors:
-    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
-  link:
-    url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010)
-  highlight: 1
-  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
-  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
-
-- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    QPI in Sr327.
-  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie
-  link:
-    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Nature Physics 5, 800 (2009)
-  highlight: 0
-
-- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    We determine the Fermi surface of Sr327.
-  authors:
-    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
-  link:
-    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
-    display: Phys. Rev. Lett. 101, 026407 (2008)
-  highlight: 0
-
-- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
-  image: Pub_hBN.png
-  description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
-  authors:
-    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
-  link:
-    url: http://www.nanoscalereslett.com/content/2/2/94
-    display: Nanoscale Research Letters 2, 94 (2007)
-  highlight: 1
-
-- title: Photoelectron Diffraction for a Look inside Nanostructures
+    url:
+    display: 9th International IEEE EMBS Conference on Neural Engineering, March 20, 2019.
+ 
+-title: "RF Bandaid: A Fully-Analog and Passive Wireless Interface for Wearable Sensors"
   image: dummy.png
   description: ""
-  authors:
-    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
+  authors: 
+    VAISHNAVI RANGANATHAN, SIDHANT GUPTA, JONATHAN LESTER, JOSHUA R. SMITH, DESNEY TAN
   link:
-    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-    display: CHIMIA 11, 759 (2006)
-  highlight: 0
+    url:
+    display: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, June 2018.
+ 
+# Wireless Quantization Index Modulation: Enabling Communication Through Existing Signals, Zerina Kapetanovic, Vamsi Talla, Aaron Parks , Jing Qian, Joshua Smith, IEEE FID, 2018/4/10.
+ 
+# RF-powered, Backscatter-based Cameras, Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith, IEEE 11th European Conference on Antennas and Propagation (EUCAP), pp. 346-349, 2017.
+ 
+# Fast Downstream to Many (Computational) RFIDs, Henko Aantjes, Amjad Y Majid, Przemyslaw Pawelczak, Jethro Tan, Aaron Parks, Joshua R Smith, Proc. IEEE INFOCOM 2017, June 14, 2017.
+ 
+# Pre-touch Sensing for Sequential Manipulation, Boling Yang, Patrick Lancaster, Joshua R. Smith, Proceedings of ICRA 2017, May 2017.
+ 
+# Finding Common Ground: A Survey of Capacitive Sensing in Human-Computer Interaction, Tobias Grosse-Puppendahl, Christian Holz, Gabe Cohn, Raphael Wimmer, Oskar Bechtold, Steve Hodges, Matthew S Reynolds, Joshua R Smith, Proceedings of the 2017 ACM SIGCHI Conference (CHI 2017), May 6, 2017.
+ 
+# FM Backscatter: Enabling Connected Cities and Smart Fabrics, Anran Wang, Vikram Iyer, Vamsi Talla, Joshua R. Smith, Shyamnath Gollakota, 14th USENIX Symposium on Networked Systems Design and Implementation (NSDI 17), March 27, 2017.
+ 
+# Passive Wi-Fi: Bringing Low Power to Wi-Fi Transmissions, Bryce Kellogg, Vamsi Talla, Shyamnath Gollakota, Joshua R. Smith, Usenix Symposium on Networked Systems Design and Implementation (NSDI), 2016. ***Best Paper***
+ 
+# 2D and 3D Millimeter-Wave Synthetic Aperture Radar Imaging on a PR2 Platform, Claire M Watts, Patrick Lancaster, Andreas Pedross-Engel, Joshua R Smith, Matthew S Reynolds, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2016), October, 2016.
+ 
+# Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices, Vikram Iyer, Vamsi Talla, Bryce Kellogg, Shyamnath Gollakota, Joshua R Smith, Proceedings of the 2016 ACM SIGCOMM Conference (SIGCOMM 2016), August 2016. ***Best Paper***
+ 
+# Battery-Free Connected Machine Vision with WISPCam, Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith, GetMobile Magazine, 2016.
+ 
+# WISPCam: An RF-Powered Smart Camera for Machine Vision Applications, Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith, ASPLOS HLPC Workshop, April 2016.
+ 
+# Design and Analysis of Rectifying and Regulating Rectifier with PWM and PFM Modes, Vamsi Talla, Joshua R. Smith, , May 2016.
+ 
+# A High-Voltage Compliant Neural Stimulator With HF Wireless Power and UHF Backscatter Communication, Vaishnavi Ranganathan, Brody Mahoney, Eric Pepin, Michael Sunshine, Chet T. Moritz, Jacques C. Rudell, Joshua R. Smith, IEEE WPTC, 2016.
+ 
+# Analysis of a Near Field Communication Wireless Power System, Yi Zhao, Brody Mahoney, Joshua R. Smith, IEEE WPTC, 2016.
+ 
+# Dual Band Wireless Power and Bi-Directional Data Link for Implanted Devices in 65 nm CMOS, Vamsi Talla, Vaishnavi Ranganathan, Brody Mahoney, Joshua R. Smith, , May 2016.
+ 
+# A high-voltage compliant neural stimulator with HF wireless power and UHF backscatter communication, Vaishnavi Ranganathan, Brody Mahoney, Eric Pepin, Michael D Sunshine, Chet T Moritz, Jacques C Rudell, Joshua R Smith, 2016 IEEE Wireless Power Transfer Conference (WPTC 2016), May 2016.
+ 
+# BLISP: Enhancing backscatter radio with active radio for computational RFIDs, Ivar in't Veen, Qingzhi Liu, Przemyslaw Pawelczak, Aaron Parks, Joshua R Smith, 2016 IEEE International Conference on RFID (IEEE RFID 2016), May 2016.
+ 
+# uMonitor: In-situ Energy Monitoring with Microwatt power consumption, Saman Naderiparizi, Aaron N. Parks, Farshid Salemi, Joshua R. Smith, IEEE RFID, May 2016.
+ 
+# Wisent: Robust downstream communication and storage for computational RFIDs, Jethro Tan, Przemysław Pawełczak, Aaron Parks, Joshua R Smith, IEEE INFOCOMM, The 35th Annual IEEE International Conference on Computer Communications, April 2016.
+ 
+# Large Area Wireless Power via a Planar Array of Coupled Resonators, Xingyi Shi, Joshua R. Smith, IEEE IWAT, Feb 2016.
+ 
+# Transmissive Optical Pretouch Sensing for Robotic Grasping, Di Guo, Patrick Lancaster, Liang-Ting Jiang, Fuchun Sun, Joshua R. Smith, Intelligent Robots and Systems (IROS), 2015 IEEE/RSJ International Conference on, Hamburg, pp. 5891-5897, 2015.
+ 
+# Self-Localizing Battery-Free Cameras, Saman Naderiparizi, Yi Zhao, James Youngquist, Alanson P. Sample, Joshua R. Smith, Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing. ACM, September 2015.
+ 
+# NFC-WISP: an open source software defined near field RFID sensing platform, Yi Zhao, Joshua R. Smith, Alanson Sample, Ubicomp, 2015.
+ 
+# WISPCam: A Battery-Free RFID Camera, Saman Naderiparizi, Aaron N. Parks, Zerina Kapetanovic, Benjamin Ransford, Joshua R. Smith, IEEE RFID, April 15-17 2015.
+ 
+# Physical human interactive guidance: Identifying grasping principles from human-planned grasps, R Balasubramanian, L Xu, PD Brook, JR Smith, Y Matsuoka, The Human Hand as an Inspiration for Robot Hand Development, pp 477-500, Springer, 2014.
+ 
+# Wireless Power: WREL, WARP, and Medical Devices
+	 
+# Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices, Vikram Iyer, Vamsi Talla, Bryce Kellogg, Shyamnath Gollakota, Joshua R Smith, Proceedings of the 2016 ACM SIGCOMM Conference (SIGCOMM 2016), August 2016. ***Best Paper***
+ 
+# FM Backscatter: Enabling Connected Cities and Smart Fabrics, Anran Wang, Vikram Iyer, Vamsi Talla, Joshua R. Smith, Shyamnath Gollakota, 14th USENIX Symposium on Networked Systems Design and Implementation (NSDI 17), March 27, 2017.
+ 
+# Large Area Wireless Power via a Planar Array of Coupled Resonators, Xingyi Shi, Joshua R. Smith, IEEE IWAT, Feb 2016.
+ 
+# Dual Band Wireless Power and Bi-Directional Data Link for Implanted Devices in 65 nm CMOS, Vamsi Talla, Vaishnavi Ranganathan, Brody Mahoney, Joshua R. Smith, , May 2016.
+ 
+# A High-Voltage Compliant Neural Stimulator With HF Wireless Power and UHF Backscatter Communication, Vaishnavi Ranganathan, Brody Mahoney, Eric Pepin, Michael Sunshine, Chet T. Moritz, Jacques C. Rudell, Joshua R. Smith, IEEE Wireless Power Transfer Conference (WPTC 2016), May 2016.
+ 
+# Analysis of a Near Field Communication Wireless Power System, Yi Zhao, Brody Mahoney, Joshua R. Smith, IEEE Wireless Power Transfer Conference (WPTC), 2016.
+ 
+# uMonitor: In-situ Energy Monitoring with Microwatt power consumption, Saman Naderiparizi, Aaron N. Parks, Farshid Salemi, Joshua R. Smith, IEEE RFID, May 2016.
+ 
+# Design and Analysis of Rectifying and Regulating Rectifier with PWM and PFM Modes, Vamsi Talla, Joshua R. Smith, , May 2016.
+ 
+# Passive Wi-Fi: Bringing Low Power to Wi-Fi Transmissions, Bryce Kellogg, Vamsi Talla, Shyamnath Gollakota, Joshua R. Smith, Usenix Symposium on Networked Systems Design and Implementation (NSDI), 2016. ***Best Paper***
+ 
+# Active Power Summation for Efficient Multiband RF Energy Harvesting, Aaron N. Parks, Joshua R. Smith, International Microwave Symposium , 2015.
+ 
+# Power Delivery and Leakage Field Control Using and Adaptive Phased Array Wireless Power System, Benjamin Waters, Brody Mahoney, Vaishnavi Ranganathan, Joshua R. Smith, IEEE Transactions on Power Electronics, Special Issue on Wireless Power Transfer, February 2015.
+ 
+# Simultaneously Tuning and Powering Multiple Wirelessly Powered Devices, Benjamin Waters, Peter Fidelman, Jeffrey Raines, Joshua R. Smith, IEEE Wireless Power Transfer Conference, Boulder, CO, May 2015.
+ 
+# Localization of Receivers using Phased Array WPT, Vaishnavi Ranganathan, Benjamin Waters, Joshua R. Smith, IEEE Wireless Power Transfer Conference, Boulder, CO, May 2015.
+ 
+# SAR distribution for a Strongly Coupled Resonant Wireless Power Transfer System, Xingyi Shi, Benjamin Waters, Joshua R. Smith, IEEE Wireless Power Transfer Conference, Boulder, CO, May 2015.
+ 
+# Co-optimization of Efficiency and Load Modulation Data Rate in a Wireless Power Transfer System, Xingyi Shi, Aaron N. Parks, Benjamin Waters, Joshua R. Smith, ISCAS, 2015.
+ 
+# Innovative Free-range Resonant Electrical Energy Delivery System (FREE-D System) for a Ventricular Assist Device Using Wireless Power, Benjamin Waters, Joshua R. Smith, Pramod Bonde, ASAIO Journal 60.1 (2014): 31-37, 2014. ***Winner of Willem J Kolff/Don B Olsen Award***
+ 
+# Optimal Coil Size Ratios for Wireless Power Transfer Applications, Benjamin Waters, Brody Mahoney, Gunbok Lee, Joshua R. Smith, ISCAS, 2014.
+ 
+# Turbocharging Ambient Backscatter Communication, A.N. Parks, A. Liu, S. Gollakota, Joshua R. Smith, SIGCOMM, 2014.
+ 
+# Wi-Fi Backscatter: Internet Connectivity for RF-Powered Devices, B. Kellogg, A.N. Parks, S. Gollakota, J.R. Smith, D.Wetherall, B. Kellogg, A.N. Parks, S. Gollako, S. Gollakota, Joshua R. Smith, D.Wetherall, SIGCOMM, 2014.
+ 
+# Sifting Through the Airwaves: Efficient and Scalable Multiband RF Harvesting, Aaron N. Parks, Joshua R. Smith, IEEE RFID, Orlando Florida, April 2014. ***Best Paper***
+ 
+# A Wirelessly Powered, Biologically Inspired Ambulatory Microrobot, M. Karpelson, B. Waters, B. Goldberg, B. Mahoney, O. Ozcan, A. Baisch, P.-M. Meyitang, J.R. Smith, R.J. Wood, IEEE Int. Conf. on Robotics and Automation (ICRA), Hong Kong, CN, May 2014.
+ 
+# Energy transmission and power sources for mechanical circulatory support devices to achieve total implantability, JX Wang, JR Smith, P Bonde, Annals of Thoracic Surgery, February 2014.
+ 
+# The Emergence of RF-Powered Computing, S Gollakota, M Reynolds, JR Smith, D. Wetherall, IEEE Computer, Vol 47 No 1, January 2014.
+ 
+# Ambient Backscatter: Wireless Communication out of Thin Air, Vincent Liu, Aaron Parks, Vamsi Talla, Shyam Gollakota, David Wetherall, Joshua R. Smith, SIGCOMM, Hong Kong, August 12-16, 2013. ***Best Paper***
+ 
+# Enabling Seamless Wireless Power Delivery in Dynamic Environments, Alanson P. Sample, Benjamin H. Waters, Scott T. Wisdom, Joshua R. Smith, Proceedings of the IEEE, Vol 101, No 6, pp. 1343-1358, June 2013.
+ 
+# Evaluation of Wireless Resonant Power Transfer Systems with Human Electromagnetic Exposure Limits, Andreas Christ, Mark G. Douglas, John Roman, Emily B. Cooper, Alanson P. Sample, Benjamin H. Waters, Joshua R. Smith, Niels Kuster, IEEE Transactions on Electromagnetic Compatibility, vol. pp, no. 99, pp. 1-10, October 2012.
+ 
+# Design Considerations for Asymmetric Magnetically Coupled Resonators used in Wireless Power Transfer Applications, Gunbok Lee, Benjamin Waters, Chen Shi, W. Park, Joshua R. Smith, IEEE Topical Meeting on Biomedical Wireless Technologies, Networks and Sensing Systems (BioWireless), Austin, TX, January 20-23 2013.
+ 
+# A Wireless Sensing Platform Utilizing Ambient RF Energy, Aaron Parks, Alanson Sample, Yi Zhao, Joshua R. Smith, IEEE Topical Meeting on Wireless Sensors and Sensor Networks (WiSNET), Austin, TX, January 20-23 2013.
+ 
+# Hybrid Analog-Digital Backscatter Platform for High Data Rate, Battery-Free Sensing, Vamsi Talla, Michael Buettner, David Wetherall, Joshua R. Smith, IEEE Topical Meeting on Wireless Sensors and Sensor Networks (WiSNET), Austin, TX, January 20-23 2013.
+ 
+# Power Consumption Analysis of Bluetooth Low Energy, ZigBee, and ANT Sensor Nodes in Cyclic Sleep Scenario, Artem Dementyev, Stuart Taylor, Joshua R. Smith, Steven Hodges, IEEE International Wireless Symposium, Beijing, China, April 14-18 2013.
+ 
+# Adaptive Impedance Matching for Magnetically Coupled Resonators, Benjamin H. Waters, Alanson P. Sample, Joshua R. Smith, PIERS Proceedings; pp. 694-701, Moscow, Russia, August 19-23, 2012.
+ 
+# Printed Low Power Amperometric Gas Sensor Employing RF Energy Harvesting, M.T. Carter, J.R. Stetter, J.R. Smith, A.N. Parks, Y. Zhao, M.W. Findlay, V. Patel, The Electrochemical Society, January 2012.
+ 
+# Powering a Ventricular Assist Device (VAD) with the Free-Range Resonant Electrical Energy Delivery (FREE-D) System, Benjamin H. Waters, Alanson P. Sample, Pramod Bonde, Joshua R. Smith, Proceedings of the IEEE , vol.100, no.1, pp.138-49, January 2012.
+ 
+# Promise of unrestricted mobility and freedom with wireless powering of a Ventricular Assist Device (VAD), Benjamin Waters, Alanson Sample, Joshua Smith, Pramod Bonde, 19th congress of the International Society of Rotary Blood Pumps, Louisville, KY, September 8th to 10th, 2011. ***Awarded the Sezai Innovation Research Award***
+ 
+# Numerical Electromagnetic Analysis of Human Exposure for Wireless Power Transfer Systems, Andreas Christ, Mark G. Douglas, John Roman, Emily B. Cooper, Alanson P. Sample, Joshua R. Smith, Niels Kuster, Proceedings of the Tenth International Congress of the European Bioelectromagnetics Association (EBEA 2011), Rome, Italy, February 21-24, 2011.
+ 
+# Analysis, Experimental Results, and Range Adaptation of Magnetically Coupled Resonators for Wireless Power Transfer, Alanson P. Sample, David T. Meyer, Joshua R. Smith, IEEE Transactions on Industrial Electronics, Vol. 58, No. 2, February 2011.
+ 
+# Experimental Results with two Wireless Power Transfer Systems, Alanson Sample, Joshua R. Smith, 2009 IEEE Radio and Wireless Symposium (RawCon 2009), 2009.
+ 
+# Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices, First Person, Second Guy, Main Person, Imaginary Proceedings, August 2017. ***Best Paper***
+ 
+# Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices, First Person, Second Guy, Main Person, Imaginary Proceedings, August 2017. ***Best Paper***
+ 
+# Robotics
+	 
+# Improved Proximity, Contact, and Force Sensing via Optimization of Elastomer-Air Interface Geometry, Patrick E. Lancaster, Joshua R. Smith, Siddhartha S. Srinivasa, IEEE International Conference on Robotics and Automation, May 2019.
+ 
+# Pre-touch Sensing for Sequential Manipulation, Boling Yang, Patrick Lancaster, Joshua R. Smith, Proceedings of ICRA 2017, May 2017. ******
+ 
+# Transmissive Optical Pretouch Sensing for Robotic Grasping, Di Guo, Patrick Lancaster, Liang-Ting Jiang, Fuchun Sun, Joshua R. Smith, Intelligent Robots and Systems (IROS), 2015 IEEE/RSJ International Conference on, Hamburg, pp. 5891-5897, 2015. ******
+ 
+# Physical human interactive guidance: Identifying grasping principles from human-planned grasps, R Balasubramanian, L Xu, PD Brook, JR Smith, Y Matsuoka, The Human Hand as an Inspiration for Robot Hand Development, pp 477-500, Springer, 2014. ******
+ 
+# A Unified Framework for Grasping and Shape Acquisition Via Pretouch Sensing, Liang-Ting Jiang, Joshua R. Smith, IEEE International Conference on Robotics ans Automation (ICRA), Karlsruhe, Germany, May 6-10, 2013. ******
+ 
+# Pretouch Sensing for Manipulation, Liang-Ting Jiang, Joshua R. Smith, Robotics: Science and Systems (RSS) Workshop: Alternative Sensing Techniques for Robotic Perception, Jul 11-12, 2012. ******
+ 
+# Seashell Effect Pretouch Sensing for Robotic Grasping, Liang-Ting Jiang, Joshua R. Smith, IEEE International Conference on Robotics ans Automation (ICRA), St.Paul, USA, May 5-12, 2012. ******
+ 
+# Interactive Singulation of Objects from a Pile, Lillian Chang, Joshua R. Smith, Dieter Fox, IEEE International Conference on Robotics ans Automation (ICRA), May 5-12, 2012. ******
+ 
+# Automatic Extraction of Command Hierarchies for Adaptive Brain-Robot Interfacing, Matthew Bryan, Griffin Nicoll, Vibinash Thomas, Mike Chung, Joshua R. Smith, Rajesh P. N. Rao, Proceedings of ICRA 2012, May 5-12, 2012. ******
+ 
+# [MISSING Link]Gambit: An Autonomous Chess-Playing Robotic System, Cynthia Matuszek, Brian Mayton, Roberto Aimi, Lifeng Bo, Marc Peter Deisenroth, Robert Chu, Michael Kung, Joshua R. Smith, Dieter Fox, Proceedings of ICRA, Shanghai, China, May 9-13, 2011. ******
+ 
+# Robot, Feed Thyself: Plugging in to Unmodified Electrical Outlets by Sensing Emitted AC Electric Fields, Brian Mayton, Louis LeGrand, Joshua R. Smith, Proceedings of the 2010 IEEE International Conference on Robotics and Automation (ICRA 2010), 2010. ******
+ 
+# An Electric Field Pretouch System for Grasping and Co-Manipulation, Brian Mayton, Louis LeGrand, Joshua R. Smith, Proceedings of the 2010 IEEE International Conference on Robotics and Automation (ICRA 2010), 2010. ******
+ 
+# Human-Guided Grasp Measures Improve Grasp Robustness on a Physical Robot, Ravi Balasubramanian, Ling Xu, Peter Brook, Joshua R. Smith, Yoky Matsuoka, Proceedings of the 2010 IEEE International Conference on Robotics and Automation (ICRA 2010), 2010. ******
+ 
+# A Spotlight on Security and Privacy Risks with Future Household Robots: Attacks and Lessons, Tamara Denning, Cynthia Matuszek, Karl Koscher, Joshua R. Smith, Tadayoshi Kohno, In the Proceedings of the 11th International Conference on Ubiquitous Computing (UbiComp 2009), September 30th -- October 3rd 2009. Click here for FAQ. ******
+ 
+# Electric Field Servoing for Robotic Manipulation, Ryan Wistort, Joshua R. Smith, Proceedings of IEEE/RSJ 2008 International Conference on Intelligent Robots and Systems (IROS 2008), 2008. ******
+ 
+# Electric Field Imaging Pretouch for Robotic Graspers, Joshua R. Smith, Eric Garcia, Ryan Wistort, Ganesh Krishnamoorthy, IEEE/RSJ 2007 International Conference on Intelligent Robots and Systems (IROS 2007), 2007. ******
+ 
+# Physical human interactive guidance: Identifying grasping principles from human-planned grasps, R Balasubramanian, L Xu, PD Brook, JR Smith, Y Matsuoka, The Human Hand as an Inspiration for Robot Hand Development, pp 477-500, Springer, 2014. ******
+ 
+# 2D and 3D Millimeter-Wave Synthetic Aperture Radar Imaging on a PR2 Platform, Claire M Watts, Patrick Lancaster, Andreas Pedross-Engel, Joshua R Smith, Matthew S Reynolds, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2016), October, 2016. ******
+ 
+# RFID Sensing and WISP (Wireless Identification and Sensing Platform)
+	 
+# Battery_Free Video Streaming Camera System, Ali Saffari, Mehrdad Hessar, Saman Naderiparizi, Joshua R. Smith, IEEE International Conference on RFID (RFID), April, 2019.
+ 
+# RF Bandaid: A Fully-Analog and Passive Wireless Interface for Wearable Sensors, VAISHNAVI RANGANATHAN, SIDHANT GUPTA, JONATHAN LESTER, JOSHUA R. SMITH, DESNEY TAN, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, June 2018. ******
+ 
+# RF-powered, Backscatter-based Cameras, Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith, IEEE 11th European Conference on Antennas and Propagation (EUCAP), pp. 346-349, 2017. ******
+ 
+# Wisent: Robust downstream communication and storage for computational RFIDs, Jethro Tan, Przemysław Pawełczak, Aaron Parks, Joshua R Smith, IEEE INFOCOMM, The 35th Annual IEEE International Conference on Computer Communications, April 2016. ******
+ 
+# Fast Downstream to Many (Computational) RFIDs, Henko Aantjes, Amjad Y Majid, Przemyslaw Pawelczak, Jethro Tan, Aaron Parks, Joshua R Smith, Proc. IEEE INFOCOM 2017, June 14, 2017. ******
+ 
+# BLISP: Enhancing backscatter radio with active radio for computational RFIDs, Ivar in't Veen, Qingzhi Liu, Przemyslaw Pawelczak, Aaron Parks, Joshua R Smith, 2016 IEEE International Conference on RFID (IEEE RFID 2016), May 2016. ******
+ 
+# WISPCam: An RF-Powered Smart Camera for Machine Vision Applications, Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith, ASPLOS HLPC Workshop, April 2016. ******
+ 
+# Battery-Free Connected Machine Vision with WISPCam, Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith, GetMobile Magazine, January 2016. ******
+ 
+# NFC-WISP: an open source software defined near field RFID sensing platform, Yi Zhao, Joshua R. Smith, Alanson Sample, Ubicomp, September 7, 2015. ******
+ 
+# Self-Localizing Battery-Free Cameras, Saman Naderiparizi, Yi Zhao, James Youngquist, Alanson P. Sample, Joshua R. Smith, Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing. ACM, September 7, 2015. ******
+ 
+# WISPCam: A Battery-Free RFID Camera, Saman Naderiparizi, Aaron N. Parks, Zerina Kapetanovic, Benjamin Ransford, Joshua R. Smith, IEEE RFID, April 15-17 2015. ******
+ 
+# A battery-free object localization and motion sensing platform, Yi Zhao, Anthony LaMarca, Joshua R. Smith, UbiComp, September 2014. ***Best Paper Nominee***
+ 
+# Wirelessly Powered Bistable Display Tags, Artem Dementyev, Jeremy Gummeson, Derek Thrasher, Aaron Parks, Deepak Ganesan, Joshua R Smith, Alanson P. Sample, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), Zurich, Switzerland, September 2013. ******
+ 
+# Hybrid Analog-Digital Backscatter: A New Approach for Battery-Free Sensing, Vamsi Talla, Joshua R. Smith, Proceedings of IEEE RFID, Orlando, Florida, April 2013. ***Nominated for best paper award***
+ 
+# A Wearable UHF RFID-Based EEG System, Artem Dementyev, Joshua R. Smith, Proceedings of IEEE RFID, Orlando, Florida, April 2013. ******
+ 
+# A battery-free RFID-based indoor acoustic localization platform, Yi Zhao, Joshua R. Smith, Proceedings of IEEE RFID, Orlando, Florida, April 2013. ******
+ 
+# Optical Localization of Passive UHF RFID Tags with Integrated LEDs, Alanson Sample, Craig Macomber, Liang-Ting Jiang, Joshua R. Smith, Proceedings of the 2012 IEEE RFID Conference, April 3-5, 2012. ******
+ 
+# Photovoltaic Enhanced UHF RFID Tag Antennas for Dual Purpose Energy Harvesting, A. Sample, A. Parks, J.R. Smith, IEEE RFID, 2011. ******
+ 
+# RFID: From Supply Chains to Sensor Nets, S. Roy, V. Jandhyala, J.R. Smith, D.J. Wetherall, B.P. Otis, R. Chakraborty, M. Buettner, D.J. Yeager, Y.-C. Ko, A.P. Sample, Proceedings of the IEEE, vol.98, no.9, pp.1583-1592, September 2010. ******
+ 
+# A Capacitive Touch Interface for Passive RFID Tags, Alanson P. Sample, Daniel J. Yeager, Joshua R. Smith, Proceedings of the 2009 IEEE International Conference on RFID, April 2009. ***Winner of Best Paper Award!***
+ 
+# NeuralWISP: A Wirelessly-Powered Neural Interface with 1-m Range, D. Yeager, J. Holleman, R. Prasad, J.R. Smith, B. Otis, IEEE Transactions on Biomedical Circuits and Systems, 2008. ******
+ 
+# NeuralWISP: An Energy-Harvesting Wireless Neural Interface with 1-m Range, Jeremy Holleman, Dan Yeager, Richa Prasad, Joshua R. Smith, Brian Otis, BioCAS 2008, 2008. ******
+ 
+# Demonstration: RFID Sensor Networks with the Intel WISP, Michael Buettner, Ben Greenstein, Richa Prasad, Alanson Sample, Joshua R. Smith, Daniel Yeager, David Wetherall, 6th ACM Conference on Embedded Networked Sensor Systems (Sensys 2008), 2008. ***Winner of Best Demo award!***
+ 
+# RFIDs and Secret Handshakes: Defending Against Ghost-and-Leech Attacks and Unauthorized Reads with Context-Aware Communications, Alexei Czeskis, Karl Koscher, Joshua R. Smith, Tadayoshi Kohno, 15th ACM Conference on Computer and Communications Security, October 27-31, 2008. ******
+ 
+# Revisiting Smart Dust with RFID Sensor Networks, Michael Buettner, Ben Greenstein, Alanson Sample, Joshua R. Smith, Seventh ACM Workshop on Hot Topics in Networks (HotNets-VII), Alberta, Canada, Oct 6-7 2008. ******
+ 
+# WISP: A Passively Powered UHF RFID Tag with Sensing and Computation, Daniel J. Yeager, Alanson P. Sample, Joshua R. Smith in S.A. Ahson, M. Ilyas Eds, RFID Handbook: Applications, Technology, Security, and Privacy, CRC Press. ******
+ 
+# Design of an RFID-Based Battery-Free Programmable Sensing Platform, Alanson P. Sample, Daniel J. Yeager, Pauline S. Powledge, Alexander V. Mamishev, Joshua R. Smith, IEEE Transactions on Instrumentation and Measurement, Vol. 57, No. 11, pp. 2608-2615, Nov. 2008. ******
+ 
+# Wirelessly-Charged UHF Tags for Sensor Data Collection, Daniel Yeager, Richa Praad, David Wetherall, Pauline Powledge, Joshua Smith, IEEE International Conference on RFID, 2008. ******
+ 
+# RFID MAC Performance Evaluation Based on ISO/IEC 18000-6 Type C, You-Chang Ko, Sumit Roy, Joshua R. Smith, Hyong-Woo Lee, Choong-Ho Cho, IEEE Communications Letters, Vol. 12, No. 6, June 2008. ******
+ 
+# An Enhanced RFID Multiple Access Protocol for Fast Inventory, You-Chang Ko, Sumit Roy, Joshua R. Smith, Hyung-Woo Lee, Choong-Ho Cho, IEEE Globecom, 2007. ******
+ 
+# Maximalist cryptography and computation on the WISP UHF RFID tag, Hee-Jin Chae, Daniel J. Yeager, Joshua R. Smith, Kevin Fu, In Proceedings of the Conference on RFID Security, July 2007. ******
+ 
+# Design of a Passively-Powered, Programmable Sensing Platform for UHF RFID Systems, Alanson P. Sample, Daniel J. Yeager, Pauline S. Powledge, Joshua R. Smith, IEEE International Conference on RFID, March 26-28, 2007. ******
+ 
+# Energy scavenging for inductively coupled passive RFID systems, B. Jiang, J. R. Smith, M. Philipose, S. Roy, K. Sundara-Rajan, A. Mamishev , IEEE Transactions on Instrumentation and Measurement, Vol. 56, No. 1, pp. 118-125., February 2007. ******
+ 
+# A wirelessly powered platform for sensing and computation, Joshua R. Smith, Alanson Sample, Pauline Powledge, Alexander Mamishev, Sumit Roy, Proceedings of Ubicomp 2006: 8th International Conference on Ubiquitous Computing. Orange Country, CA, USA, pp. 495-506, September 17-21 2006. ******
+ 
+# RFID-Based Techniques for Human Activity Recognition, Joshua R. Smith, Kenneth P. Fishkin , Bing Jiang, Alexander Mamishev, Matthai Philipose, Adam Rea , Sumit Roy, Kishore Sundara-Rajan, Communications of the ACM, v48, no. 9, Sep 2005. ******
+ 
+# ID Modulation: Embedding Sensor Data in an RFID Timeseries, Joshua R. Smith, Bing Jiang, Sumit Roy, Matthai Philipose, Kishore Sundara-Rajan, Alexander Mamishev, Proceedings of Information Hiding 2005, LNCS 3727, pp. 234-246, 2005. ******
+ 
+# Energy Scavenging for Inductively Coupled Passive RFID Systems, Bing Jiang, Sumit Roy, Kishore Sundara-Rajan, Matthai Philipose, Joshua R. Smith, Alexander V. Mamishev, Proceedings of the IEEE Instrumentation and Measurement Technology Conference, Ottawa, Canada, pp. 984-989, May 17-19 2005. ******
+ 
+# Battery-Free Wireless Identification and Sensing, Matthai Philipose, Joshua R. Smith, Bing Jiang, Kishore Sundara-Rajan, Alexander Mamishev, Sumit Roy, IEEE Pervasive Computing, Vol. 4, No. 1, pp. 37-45, January-March 2005. ******
+ 
+# Data Hiding, Security, Sensing and Misc.
+	 
+# Wireless Quantization Index Modulation: Enabling Communication Through Existing Signals, Zerina Kapetanovic, Vamsi Talla, Aaron Parks , Jing Qian, Joshua Smith, IEEE FID, 2018/4/10.
+ 
+# NeuralCLIP: A Modular FPGA-Based Neural Interface for Closed-Loop Operation, Vaishnavi Ranganathan, Jared Nakahara, Soshi Samejima, Nicholas Tolley, Abed Khorasani, Chet T. Moritz, Joshua R. Smith, 9th International IEEE EMBS Conference on Neural Engineering, March 20, 2019. ******
+ 
+# Finding Common Ground: A Survey of Capacitive Sensing in Human-Computer Interaction, Tobias Grosse-Puppendahl, Christian Holz, Gabe Cohn, Raphael Wimmer, Oskar Bechtold, Steve Hodges, Matthew S Reynolds, Joshua R Smith, Proceedings of the 2017 ACM SIGCHI Conference (CHI 2017), May 6, 2017. ******
+ 
+# Imperceptible Sensory Channels, Joshua R. Smith, IEEE Computer, Vol. 37, No. 6, pp. 84-85, June 2004. ******
+ 
+# Sensors, Tags, and Security, Joshua R. Smith, Proceedings of the State of Technology Conference on Mobile Wireless Technologies for Persons with Disabilities, Atlanta, GA, May 11-12 2004, pp. 60-66, May 11-12 2004. ******
+ 
+# FiberFingerprint Identification, Eric Metois, Paul M. Yarin, Noah Salzman, Joshua R. Smith, Proceedings of the Third Workshop on Automatic Identification, Tarrytown, NY, March 2002, pp. 147-154, March 2002. ******
+ 
+# Developments in Steganography, Joshua R. Smith, Christopher Dodge, Proceedings of Information Hiding: Third International Workshop, Dresden, Germany, September/October 1999. Springer-Verlag Lecture Notes in Computer Science, Vol. 1768, pp. 77-87., September/October 1999. ******
+ 
+# Microstructure-Based Indicia, Joshua R. Smith, Andrew V. Sutherland, Proceedings of the Second Workshop on Automatic Identification Advanced Technologies, Morristown, NJ. October 1999, pp. 79-83, October 1999. ******
+ 
+# Stealth Barcodes, Joshua R. Smith, Barrett Comiskey, Proceedings of the Workshop on Automatic Identification Advanced Technologies, Stony Brook, N.Y., November 1997. ******
+ 
+# Distributed Protocols for ID Assignment, Joshua R. Smith, Proceedings of the First Workshop on Automatic Identification Advanced Technologies, Stony Brook, N.Y., November 1997. ******
+ 
+# Modulation and Information Hiding in Images, Joshua R. Smith, Barrett O. Comiskey, Presented at the Workshop on Information Hiding, Isaac Newton Institute, University of Cambridge, UK. Springer-Verlag Lecture Notes in Computer Science Volume 1174, pp. 207-226, May 1996. ******
+ 
+# Field Mice: Extracting Hand Geometry From Electric Field Measurements, Joshua R. Smith, , 1996. ******
+ 
+# Applying Electric Field Sensing to Human-Computer Interfaces, Tom Zimmerman, Joshua R. Smith, Joe Paradiso, David Allport, Neil Gershenfeld, Applying Electric Field Sensing to HumaProceedings of the ACM Conference on Human Factors in Computing Systems (CHI-95), May 1995. ******
+ 
+# Lattice Polymer Automata, Steen Rasmussen, Joshua R. Smith, Berichte der BunsenGesellschaft fur Physikalische Chemie 98, No. 9, pp. 1185-1193, 1994. ******
+ 
+# Evolving Models of Dynamical Systems with a Genetic Algorithm, Joshua R. Smith, Donald House, Proceedings of IEE Colloquium on Genetic Algorithms for Control and Systems Engineering, London. IEE Digest 1992/106, April 1992. ******
+ 
+# Designing Biomorphs with an Interactive Genetic Algorithm, Joshua R. Smith, Proceedings of the Fourth International Conference on Genetic Algorithms, University of California, San Diego, pp. 535-538. BUGSX (a re-written version of my BUGS code) is available in the Ubuntu Linux distribution under "games", June 1991. ******
+ 
