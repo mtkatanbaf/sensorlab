@@ -78,7 +78,7 @@ permalink: /publications/
 ## Robotics
 {% for publi in site.data.publist %}
 
-{% if publi.category == 2 %}
+{% if publi.category == 2 or publi.category == 1%}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br />{{ publi.display }}
