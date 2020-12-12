@@ -30,8 +30,10 @@ permalink: /publications/
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong>{{ publi.display }}</strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
+  {% if publi.pdf != 0 %}
+  <p><strong><a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ publi.pdf }}">[pdf]</a></pubtit></strong></p>
+  {% endif %}
+  <p class="text-danger"><strong> {{ publi.news }}</strong></p>
  </div>
 </div>
 
