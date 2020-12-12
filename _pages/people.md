@@ -39,7 +39,7 @@ Jump to [Members](#members), [Alumni](#alumni), [Former visitors](#visitors).
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>
   email: <{{ member.email }}> <br>
-  website: <{{ member.website }}> <br>
+  website: {{ member.website }} <br>
   </i>
   <ul style="overflow: hidden">
 
