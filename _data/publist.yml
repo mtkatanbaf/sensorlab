@@ -3,7 +3,7 @@
   description: ""
   authors: 
     Patrick E. Lancaster, Joshua R. Smith, Siddhartha S. Srinivasa, 
-  url: 
+  url: "{{ site.url }}{{ site.baseurl }}/downloads/lancaster2019pcf.pdf"
   display: IEEE International Conference on Robotics and Automation, May 2019.
   year: 2019
   category1: 2
