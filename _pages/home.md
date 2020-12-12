@@ -62,14 +62,14 @@ In the Sensor Systems Laboratory we invent new sensor systems, devise innovative
 We are grateful for funding from National Science Foundation (NSF), NSF Engineering Research Center (ERC), National Institutes of Health (NIH), Intel, Google, Microsoft, Bosch, UW Center for Commercialization (C4C), Washington Research Foundation and UW Center for Process Analysis and Control (CPAC).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/NSFlogo.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/NSFlogo.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/funding/CSNELogo.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/NIHLogo.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/NIHLogo.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/funding/Intellogo.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/funding/googlelogo.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/MicrosoftLogo.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/MicrosoftLogo.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/funding/bosch-logo-2.gif" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/funding/c4c-logo-scaled.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/WRFlogo.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/WRFlogo.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/funding/cpac-logo-scaled.png" style="width: 110px">
 </figure>
