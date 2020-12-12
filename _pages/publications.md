@@ -26,13 +26,13 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit><a href="{{ publi.url }}">{{ publi.title }}</a></pubtit>
+  {% if publi.pdf != 0 %}
+  <p><strong><a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ publi.pdf }}">[pdf]</a></strong></p>
+  {% endif %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong>{{ publi.display }}</strong></p>
-  {% if publi.pdf != 0 %}
-  <p><strong><a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ publi.pdf }}">[pdf]</a></pubtit></strong></p>
-  {% endif %}
   <p class="text-danger"><strong> {{ publi.news }}</strong></p>
  </div>
 </div>
@@ -60,7 +60,10 @@ permalink: /publications/
 
 {% if publi.year > 2016 %}
 
-  {{ publi.title }} <br />
+  {{ publi.title }} 
+  {% if publi.pdf != 0 %}
+  <p><strong><a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ publi.pdf }}">[pdf]</a></strong></p>
+  {% endif %}<br />
   <em>{{ publi.authors }} </em><br />{{ publi.display }}
 
 {% endif %}
@@ -71,7 +74,10 @@ permalink: /publications/
 
 {% if publi.category1 == 1  or publi.category2 == 1%}
 
-  {{ publi.title }} <br />
+  {{ publi.title }} 
+  {% if publi.pdf != 0 %}
+  <p><strong><a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ publi.pdf }}">[pdf]</a></strong></p>
+  {% endif %}<br />
   <em>{{ publi.authors }} </em><br />{{ publi.display }}
 
 {% endif %}
@@ -82,7 +88,10 @@ permalink: /publications/
 
 {% if publi.category1 == 2 or publi.category2 == 2%}
 
-  {{ publi.title }} <br />
+  {{ publi.title }} 
+  {% if publi.pdf != 0 %}
+  <p><strong><a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ publi.pdf }}">[pdf]</a></strong></p>
+  {% endif %}<br />
   <em>{{ publi.authors }} </em><br />{{ publi.display }}
 
 {% endif %}
@@ -93,7 +102,10 @@ permalink: /publications/
 
 {% if publi.category1 == 3  or publi.category2 == 3%}
 
-  {{ publi.title }} <br />
+  {{ publi.title }} 
+  {% if publi.pdf != 0 %}
+  <p><strong><a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ publi.pdf }}">[pdf]</a></strong></p>
+  {% endif %}<br />
   <em>{{ publi.authors }} </em><br />{{ publi.display }}
 
 {% endif %}
@@ -104,7 +116,10 @@ permalink: /publications/
 
 {% if publi.category1 == 4  or publi.category2 == 4%}
 
-  {{ publi.title }} <br />
+  {{ publi.title }} 
+  {% if publi.pdf != 0 %}
+  <p><strong><a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ publi.pdf }}">[pdf]</a></strong></p>
+  {% endif %}<br />
   <em>{{ publi.authors }} </em><br />{{ publi.display }}
 
 {% endif %}
