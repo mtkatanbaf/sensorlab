@@ -61,11 +61,11 @@ permalink: /publications/
 
 {% if publi.year > 2016 %}
 
-  {{ publi.title }} 
+  <pubtit>{{ publi.title }} 
   {% if publi.pdf != 0 %}
-  <strong><a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ publi.pdf }}">[pdf]</a></strong>
+  <a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ publi.pdf }}">[pdf]</a>
   {% endif %}
-  <br />
+  </pubtit>
   <em>{{ publi.authors }} </em><br />{{ publi.display }}
 
 {% endif %}
