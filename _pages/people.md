@@ -112,6 +112,7 @@ Jump to [Members](#members), [Alumni](#alumni), [Former visitors](#visitors).
 {% endif %}
 
 ## Visitors
+
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_visitors %}
 
@@ -126,22 +127,22 @@ Jump to [Members](#members), [Alumni](#alumni), [Former visitors](#visitors).
   <h4>{{ member.name }}</h4>
   <i>email: <{{ member.email }}> <br>
   website: <{{ member.website }}> <br>
-  First job: {{ member.first_job }}<br> 
-  Current job: {{ member.current_job }}<br> 
-  </i>
+  Current job: {{ member.current_job }}<br> </i>
   <ul style="overflow: hidden">
 
   </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
 </div>
+{% endif %}
+
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-<!-- </div> -->
 
