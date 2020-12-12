@@ -6,7 +6,7 @@
   link:
     url: 
     display: IEEE International Conference on Robotics and Automation, May 2019.
-  highlight: 0
+  highlight: 1
   news2:
  
 - title: "Battery_Free Video Streaming Camera System"
@@ -17,6 +17,7 @@
   link:
     url:
     display: IEEE International Conference on RFID (RFID), April, 2019.
+  highlight: 1
 
 -title: "NeuralCLIP: A Modular FPGA-Based Neural Interface for Closed-Loop Operation"
   image: dummy.png
@@ -26,6 +27,7 @@
   link:
     url:
     display: 9th International IEEE EMBS Conference on Neural Engineering, March 20, 2019.
+  highlight: 0
  
 -title: "RF Bandaid: A Fully-Analog and Passive Wireless Interface for Wearable Sensors"
   image: dummy.png
@@ -35,6 +37,7 @@
   link:
     url:
     display: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, June 2018.
+  highlight: 0
  
 # Wireless Quantization Index Modulation: Enabling Communication Through Existing Signals, Zerina Kapetanovic, Vamsi Talla, Aaron Parks , Jing Qian, Joshua Smith, IEEE FID, 2018/4/10.
  
