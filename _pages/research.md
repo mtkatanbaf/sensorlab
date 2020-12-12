@@ -37,3 +37,15 @@ As computing devices become smaller and more numerous, powering them becomes mor
 ![]({{ site.url }}{{ site.baseurl }}/images/research/BrainInterfacelink.jpg){: style="width: 150px; float: left; margin: 0px  10px"}
 We are been collaborating with the Neural Systems Lab to create a Brain Computer interface (BCI) for Hobbes (our PR2 robot), which will allow the robot to perform remote tasks. The system consists of our PR2 robot, an electrode cap for sensing brainwave frequencies, and graphical user interface for controlling the robot remotely. This system will allow a severely paralyzed patient to use a robot as a proxy to perform a task by issuings commands to the robot without the need of physical movement.
 <br><br><br>
+
+
+**Robotic Pile Sorting and Manipulation**
+![]({{ site.url }}{{ site.baseurl }}/images/research/PileSortingLink.jpg){: style="width: 150px; float: left; margin: 0px  10px"}
+We are investigating strategies for robot interaction with piles of objects and materials in cluttered scenes. In particular, interaction with unstructured sets of objects will allow a robot to explore and manipulate novel items, in order to perform useful tasks such as counting, arranging, or sorting even without having a prior model of the objects.
+<br><br><br><br>
+
+**Deep Sea Wireless Power**
+![]({{ site.url }}{{ site.baseurl }}/images/research/DeepSeaPowerLink.JPG){: style="width: 150px; float: left; margin: 0px  10px"}
+The Sensor Systems Lab is working with the UW Applied Physics Lab on underwater wireless power transfer and communication. We are collaborating with David Dyer and Bob Michimoto to transmit power wirelessly via WREL at 1000m depths beneath sea-level to charge power base stations. Tests have shown that the power transmission gain decreases in sea-water compared to air, and even fresh water. However, by modifying coil size and various parameters, this loss can be minimized. We have conducted tests to examine the effects that salt water and fresh water have on the wireless power transfer efficiency at both small signal levels, and at high power levels suitable for power transfer. The image shows a test tank for evaluating power transfer efficiency through seawater.
+<br><br><br>
+
