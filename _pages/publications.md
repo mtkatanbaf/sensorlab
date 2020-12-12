@@ -67,7 +67,7 @@ permalink: /publications/
 ## Wireless
 {% for publi in site.data.publist %}
 
-{% if publi.category == 1 %}
+{% if publi.category1 == 1  or publi.category2 == 1%}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br />{{ publi.display }}
@@ -78,7 +78,7 @@ permalink: /publications/
 ## Robotics
 {% for publi in site.data.publist %}
 
-{% if publi.category == 2 or publi.category == 1%}
+{% if publi.category1 == 2 or publi.category2 == 2%}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br />{{ publi.display }}
@@ -87,6 +87,23 @@ permalink: /publications/
 {% endfor %}
 
 ## RFID Sensing and WISP
+{% for publi in site.data.publist %}
 
+{% if publi.category1 == 3  or publi.category2 == 3%}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br />{{ publi.display }}
+
+{% endif %}
+{% endfor %}
 
 ## Security and Misc.
+{% for publi in site.data.publist %}
+
+{% if publi.category1 == 4  or publi.category2 == 4%}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br />{{ publi.display }}
+
+{% endif %}
+{% endfor %}
