@@ -40,9 +40,16 @@
   email: 
   website:
 
-- name: Aaron Parks, PhD (VP )
+- name: Aaron Parks, PhD
   photo: AaronParks.jpg
   first_job: Jeeva Wireless (VP)
+  current_job: 
+  email: 
+  website:
+
+- name: Jim Youngquist, on leave
+  photo: jim.jpg
+  first_job: eLoupes (VP)
   current_job: 
   email: 
   website:
@@ -64,13 +71,6 @@
 - name: Xingyi Shi, PhD
   photo: xingyi.png
   first_job: Synapse
-  current_job: 
-  email: 
-  website:
-
-  - name: Alanson Sample, PhD
-  photo: AlansonSample.JPG
-  first_job: Disney
   current_job: 
   email: 
   website:
