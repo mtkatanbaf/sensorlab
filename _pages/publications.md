@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list see [Recent Publications](#recent=publications), [Wireless](#wireless), [Robotics](#robotics), [RFID Sensing and WISP](#rfid-sensing-and-wisp), [Data Hiding, Security and Misc.](#data-hiding,-security-and-misc.)  )
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -52,7 +52,7 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List
+## Recent Publications
 
 {% for publi in site.data.publist %}
 
@@ -60,3 +60,14 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br />{{ publi.display }}
 
 {% endfor %}
+
+## Wireless
+
+
+## Robotics
+
+
+## RFID Sensing and WISP
+
+
+## Data Hiding, Security and Misc.
