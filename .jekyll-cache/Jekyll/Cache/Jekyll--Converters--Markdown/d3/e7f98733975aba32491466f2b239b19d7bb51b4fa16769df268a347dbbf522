@@ -1,0 +1,289 @@
+I"Z4<h1 id="publications">Publications</h1>
+
+<h2 id="group-highlights">Group highlights</h2>
+
+<p>(For a full list see <a href="#recent=publications">Recent Publications</a>, <a href="#wireless">Wireless</a>, <a href="#robotics">Robotics</a>, <a href="#rfid-sensing-and-wisp">RFID Sensing and WISP</a>, <a href="#security-and-misc.">Security and Misc.</a>  )</p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit><a href="https://ieeexplore.ieee.org/document/8793959">Improved Proximity, Contact, and Force Sensing via Optimization of Elastomer-Air Interface Geometry.</a>
+  
+  <strong><a href="/sensorlab/downloads/lancaster2019pcf.pdf">[pdf]</a></strong>
+  
+  </pubtit>
+      <p><img src="/sensorlab/images/pubpic/dummy.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p></p>
+      <p><em>Patrick E. Lancaster, Joshua R. Smith, Siddhartha S. Srinivasa,</em></p>
+      <p><strong>IEEE International Conference on Robotics and Automation, May 2019.</strong></p>
+      <p class="text-danger"><strong> </strong></p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit><a href="https://ieeexplore.ieee.org/abstract/document/8719264">Battery_Free Video Streaming Camera System</a>
+  
+  </pubtit>
+      <p><img src="/sensorlab/images/pubpic/dummy.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p></p>
+      <p><em>Ali Saffari, Mehrdad Hessar, Saman Naderiparizi, Joshua R. Smith</em></p>
+      <p><strong>IEEE International Conference on RFID (RFID), April, 2019.</strong></p>
+      <p class="text-danger"><strong> </strong></p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<h2 id="recent-publications">Recent Publications</h2>
+
+<pubtit>Improved Proximity, Contact, and Force Sensing via Optimization of Elastomer-Air Interface Geometry. 
+  
+  <a href="/sensorlab/downloads/lancaster2019pcf.pdf">[pdf]</a>
+  
+  </pubtit>
+<p><em>Patrick E. Lancaster, Joshua R. Smith, Siddhartha S. Srinivasa, </em><br />IEEE International Conference on Robotics and Automation, May 2019.</p>
+
+<pubtit>Battery_Free Video Streaming Camera System 
+  
+  </pubtit>
+<p><em>Ali Saffari, Mehrdad Hessar, Saman Naderiparizi, Joshua R. Smith </em><br />IEEE International Conference on RFID (RFID), April, 2019.</p>
+
+<pubtit>NeuralCLIP: A Modular FPGA-Based Neural Interface for Closed-Loop Operation 
+  
+  </pubtit>
+<p><em>Vaishnavi Ranganathan, Jared Nakahara, Soshi Samejima, Nicholas Tolley, Abed Khorasani, Chet T. Moritz, Joshua R. Smith </em><br />9th International IEEE EMBS Conference on Neural Engineering, March 20, 2019.</p>
+
+<pubtit>RF Bandaid: A Fully-Analog and Passive Wireless Interface for Wearable Sensors 
+  
+  <a href="/sensorlab/downloads/a79-Ranganathan.pdf">[pdf]</a>
+  
+  </pubtit>
+<p><em>VAISHNAVI RANGANATHAN, SIDHANT GUPTA, JONATHAN LESTER, JOSHUA R. SMITH, DESNEY TAN </em><br />Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, June 2018.</p>
+
+<pubtit>Wireless Quantization Index Modulation: Enabling Communication Through Existing Signals 
+  
+  </pubtit>
+<p><em>Zerina Kapetanovic, Vamsi Talla, Aaron Parks , Jing Qian, Joshua Smith </em><br />IEEE RFID, 2018/4/10.</p>
+
+<pubtit>RF-powered, Backscatter-based Cameras 
+  
+  </pubtit>
+<p><em>Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith </em><br />IEEE 11th European Conference on Antennas and Propagation (EUCAP), pp. 346-349, 2017.</p>
+
+<pubtit>Fast Downstream to Many (Computational) RFIDs 
+  
+  </pubtit>
+<p><em>Henko Aantjes, Amjad Y Majid, Przemyslaw Pawelczak, Jethro Tan, Aaron Parks, Joshua R Smith </em><br />Proc. IEEE INFOCOM 2017, June 14, 2017.</p>
+
+<pubtit>Pre-touch Sensing for Sequential Manipulation 
+  
+  </pubtit>
+<p><em>Boling Yang, Patrick Lancaster, Joshua R. Smith </em><br />Proceedings of ICRA 2017, May 2017.</p>
+
+<pubtit>Finding Common Ground: A Survey of Capacitive Sensing in Human-Computer Interaction 
+  
+  </pubtit>
+<p><em>Tobias Grosse-Puppendahl, Christian Holz, Gabe Cohn, Raphael Wimmer, Oskar Bechtold, Steve Hodges, Matthew S Reynolds, Joshua R Smith </em><br />Proceedings of the 2017 ACM SIGCHI Conference (CHI 2017), May 6, 2017.</p>
+
+<pubtit>FM Backscatter: Enabling Connected Cities and Smart Fabrics 
+  
+  </pubtit>
+<p><em>Anran Wang, Vikram Iyer, Vamsi Talla, Joshua R. Smith, Shyamnath Gollakota </em><br />14th USENIX Symposium on Networked Systems Design and Implementation (NSDI 17), March 27, 2017.</p>
+
+<h2 id="wireless">Wireless</h2>
+
+<pubtit>Battery_Free Video Streaming Camera System 
+  
+  </pubtit>
+<p><em>Ali Saffari, Mehrdad Hessar, Saman Naderiparizi, Joshua R. Smith </em><br />IEEE International Conference on RFID (RFID), April, 2019.</p>
+
+<pubtit>RF Bandaid: A Fully-Analog and Passive Wireless Interface for Wearable Sensors 
+  
+  <a href="/sensorlab/downloads/a79-Ranganathan.pdf">[pdf]</a>
+  
+  </pubtit>
+<p><em>VAISHNAVI RANGANATHAN, SIDHANT GUPTA, JONATHAN LESTER, JOSHUA R. SMITH, DESNEY TAN </em><br />Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, June 2018.</p>
+
+<pubtit>Wireless Quantization Index Modulation: Enabling Communication Through Existing Signals 
+  
+  </pubtit>
+<p><em>Zerina Kapetanovic, Vamsi Talla, Aaron Parks , Jing Qian, Joshua Smith </em><br />IEEE RFID, 2018/4/10.</p>
+
+<pubtit>RF-powered, Backscatter-based Cameras 
+  
+  </pubtit>
+<p><em>Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith </em><br />IEEE 11th European Conference on Antennas and Propagation (EUCAP), pp. 346-349, 2017.</p>
+
+<pubtit>Fast Downstream to Many (Computational) RFIDs 
+  
+  </pubtit>
+<p><em>Henko Aantjes, Amjad Y Majid, Przemyslaw Pawelczak, Jethro Tan, Aaron Parks, Joshua R Smith </em><br />Proc. IEEE INFOCOM 2017, June 14, 2017.</p>
+
+<pubtit>FM Backscatter: Enabling Connected Cities and Smart Fabrics 
+  
+  </pubtit>
+<p><em>Anran Wang, Vikram Iyer, Vamsi Talla, Joshua R. Smith, Shyamnath Gollakota </em><br />14th USENIX Symposium on Networked Systems Design and Implementation (NSDI 17), March 27, 2017.</p>
+
+<pubtit>Passive Wi-Fi: Bringing Low Power to Wi-Fi Transmissions 
+  
+  </pubtit>
+<p><em>Bryce Kellogg, Vamsi Talla, Shyamnath Gollakota, Joshua R. Smith </em><br />13th USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2016.</p>
+
+<pubtit>2D and 3D Millimeter-Wave Synthetic Aperture Radar Imaging on a PR2 Platform 
+  
+  </pubtit>
+<p><em>Claire M Watts, Patrick Lancaster, Andreas Pedross-Engel, Joshua R Smith, Matthew S Reynolds </em><br />IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2016), October, 2016.</p>
+
+<pubtit>Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices 
+  
+  </pubtit>
+<p><em>Vikram Iyer, Vamsi Talla, Bryce Kellogg, Shyamnath Gollakota, Joshua R Smith </em><br />Proceedings of the 2016 ACM SIGCOMM Conference (SIGCOMM 2016), August 2016.</p>
+
+<pubtit>Battery-Free Connected Machine Vision with WISPCam 
+  
+  </pubtit>
+<p><em>Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith </em><br />GetMobile Magazine, 2016.</p>
+
+<pubtit>WISPCam: An RF-Powered Smart Camera for Machine Vision Applications 
+  
+  </pubtit>
+<p><em>Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith </em><br />ASPLOS HLPC Workshop, April 2016.</p>
+
+<pubtit>Design and Analysis of Rectifying and Regulating Rectifier with PWM and PFM Modes 
+  
+  </pubtit>
+<p><em>Vamsi Talla, Joshua R. Smith </em><br />May 2016</p>
+
+<pubtit>A High-Voltage Compliant Neural Stimulator With HF Wireless Power and UHF Backscatter Communication 
+  
+  </pubtit>
+<p><em>Vaishnavi Ranganathan, Brody Mahoney, Eric Pepin, Michael Sunshine, Chet T. Moritz, Jacques C. Rudell, Joshua R. Smith </em><br />IEEE WPTC, 2016.</p>
+
+<pubtit>Analysis of a Near Field Communication Wireless Power System 
+  
+  </pubtit>
+<p><em>Yi Zhao, Brody Mahoney, Joshua R. Smith </em><br />IEEE WPTC, 2016.</p>
+
+<pubtit>Dual Band Wireless Power and Bi-Directional Data Link for Implanted Devices in 65 nm CMOS 
+  
+  </pubtit>
+<p><em>Vamsi Talla, Vaishnavi Ranganathan, Brody Mahoney, Joshua R. Smith </em><br />May 2016</p>
+
+<pubtit>BLISP: Enhancing backscatter radio with active radio for computational RFIDs 
+  
+  </pubtit>
+<p><em>Ivar in’t Veen, Qingzhi Liu, Przemyslaw Pawelczak, Aaron Parks, Joshua R Smith </em><br />2016 IEEE International Conference on RFID (IEEE RFID 2016), May 2016.</p>
+
+<pubtit>Wisent: Robust downstream communication and storage for computational RFIDs 
+  
+  </pubtit>
+<p><em>Jethro Tan, Przemysław Pawełczak, Aaron Parks, Joshua R Smith </em><br />IEEE INFOCOMM, The 35th Annual IEEE International Conference on Computer Communications, April 2016.</p>
+
+<pubtit>Large Area Wireless Power via a Planar Array of Coupled Resonators 
+  
+  </pubtit>
+<p><em>Xingyi Shi, Joshua R. Smith </em><br />IEEE IWAT, Feb 2016.</p>
+
+<pubtit>Self-Localizing Battery-Free Cameras 
+  
+  </pubtit>
+<p><em>Saman Naderiparizi, Yi Zhao, James Youngquist, Alanson P. Sample, Joshua R. Smith </em><br />Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing. ACM, September 2015.</p>
+
+<pubtit>NFC-WISP: an open source software defined near field RFID sensing platform 
+  
+  </pubtit>
+<p><em>Yi Zhao, Joshua R. Smith, Alanson Sample </em><br />Ubicomp, 2015.</p>
+
+<pubtit>WISPCam: A Battery-Free RFID Camera 
+  
+  </pubtit>
+<p><em>Saman Naderiparizi, Aaron N. Parks, Zerina Kapetanovic, Benjamin Ransford, Joshua R. Smith </em><br />IEEE RFID, April 15-17 2015.</p>
+
+<h2 id="robotics">Robotics</h2>
+
+<pubtit>Improved Proximity, Contact, and Force Sensing via Optimization of Elastomer-Air Interface Geometry. 
+  
+  <a href="/sensorlab/downloads/lancaster2019pcf.pdf">[pdf]</a>
+  
+  </pubtit>
+<p><em>Patrick E. Lancaster, Joshua R. Smith, Siddhartha S. Srinivasa, </em><br />IEEE International Conference on Robotics and Automation, May 2019.</p>
+
+<pubtit>Pre-touch Sensing for Sequential Manipulation 
+  
+  </pubtit>
+<p><em>Boling Yang, Patrick Lancaster, Joshua R. Smith </em><br />Proceedings of ICRA 2017, May 2017.</p>
+
+<pubtit>Finding Common Ground: A Survey of Capacitive Sensing in Human-Computer Interaction 
+  
+  </pubtit>
+<p><em>Tobias Grosse-Puppendahl, Christian Holz, Gabe Cohn, Raphael Wimmer, Oskar Bechtold, Steve Hodges, Matthew S Reynolds, Joshua R Smith </em><br />Proceedings of the 2017 ACM SIGCHI Conference (CHI 2017), May 6, 2017.</p>
+
+<pubtit>Transmissive Optical Pretouch Sensing for Robotic Grasping 
+  
+  </pubtit>
+<p><em>Di Guo, Patrick Lancaster, Liang-Ting Jiang, Fuchun Sun, Joshua R. Smith </em><br />Intelligent Robots and Systems (IROS), 2015 IEEE/RSJ International Conference on, Hamburg, pp. 5891-5897, 2015.</p>
+
+<pubtit>Physical human interactive guidance: Identifying grasping principles from human-planned grasps 
+  
+  </pubtit>
+<p><em>R Balasubramanian, L Xu, PD Brook, JR Smith, Y Matsuoka </em><br />The Human Hand as an Inspiration for Robot Hand Development, pp 477-500, Springer, 2014.</p>
+
+<h2 id="rfid-sensing-and-wisp">RFID Sensing and WISP</h2>
+
+<pubtit>Fast Downstream to Many (Computational) RFIDs 
+  
+  </pubtit>
+<p><em>Henko Aantjes, Amjad Y Majid, Przemyslaw Pawelczak, Jethro Tan, Aaron Parks, Joshua R Smith </em><br />Proc. IEEE INFOCOM 2017, June 14, 2017.</p>
+
+<pubtit>Battery-Free Connected Machine Vision with WISPCam 
+  
+  </pubtit>
+<p><em>Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith </em><br />GetMobile Magazine, 2016.</p>
+
+<pubtit>WISPCam: An RF-Powered Smart Camera for Machine Vision Applications 
+  
+  </pubtit>
+<p><em>Saman Naderiparizi, Zerina Kapetanovic, Joshua R. Smith </em><br />ASPLOS HLPC Workshop, April 2016.</p>
+
+<pubtit>Wisent: Robust downstream communication and storage for computational RFIDs 
+  
+  </pubtit>
+<p><em>Jethro Tan, Przemysław Pawełczak, Aaron Parks, Joshua R Smith </em><br />IEEE INFOCOMM, The 35th Annual IEEE International Conference on Computer Communications, April 2016.</p>
+
+<pubtit>Self-Localizing Battery-Free Cameras 
+  
+  </pubtit>
+<p><em>Saman Naderiparizi, Yi Zhao, James Youngquist, Alanson P. Sample, Joshua R. Smith </em><br />Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing. ACM, September 2015.</p>
+
+<pubtit>NFC-WISP: an open source software defined near field RFID sensing platform 
+  
+  </pubtit>
+<p><em>Yi Zhao, Joshua R. Smith, Alanson Sample </em><br />Ubicomp, 2015.</p>
+
+<pubtit>WISPCam: A Battery-Free RFID Camera 
+  
+  </pubtit>
+<p><em>Saman Naderiparizi, Aaron N. Parks, Zerina Kapetanovic, Benjamin Ransford, Joshua R. Smith </em><br />IEEE RFID, April 15-17 2015.</p>
+
+<h2 id="security-and-misc">Security and Misc.</h2>
+
+<pubtit>NeuralCLIP: A Modular FPGA-Based Neural Interface for Closed-Loop Operation 
+  
+  </pubtit>
+<p><em>Vaishnavi Ranganathan, Jared Nakahara, Soshi Samejima, Nicholas Tolley, Abed Khorasani, Chet T. Moritz, Joshua R. Smith </em><br />9th International IEEE EMBS Conference on Neural Engineering, March 20, 2019.</p>
+
+<pubtit>Wireless Quantization Index Modulation: Enabling Communication Through Existing Signals 
+  
+  </pubtit>
+<p><em>Zerina Kapetanovic, Vamsi Talla, Aaron Parks , Jing Qian, Joshua Smith </em><br />IEEE RFID, 2018/4/10.</p>
+
+<pubtit>uMonitor: In-situ Energy Monitoring with Microwatt power consumption 
+  
+  </pubtit>
+<p><em>Saman Naderiparizi, Aaron N. Parks, Farshid Salemi, Joshua R. Smith </em><br />IEEE RFID, May 2016.</p>
+
+:ET
