@@ -76,11 +76,11 @@ permalink: /publications/
 
 {% if publi.category1 == 1  or publi.category2 == 1%}
 
-  {{ publi.title }} 
+  <pubtit>{{ publi.title }} 
   {% if publi.pdf != 0 %}
-  <strong><a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ publi.pdf }}">[pdf]</a></strong>
+  <a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ publi.pdf }}">[pdf]</a>
   {% endif %}
-  <br />
+  </pubtit>
   <em>{{ publi.authors }} </em><br />{{ publi.display }}
 
 {% endif %}
@@ -91,11 +91,11 @@ permalink: /publications/
 
 {% if publi.category1 == 2 or publi.category2 == 2%}
 
-  {{ publi.title }} 
+  <pubtit>{{ publi.title }} 
   {% if publi.pdf != 0 %}
-  <strong><a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ publi.pdf }}">[pdf]</a></strong>
+  <a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ publi.pdf }}">[pdf]</a>
   {% endif %}
-  <br />
+  </pubtit>
   <em>{{ publi.authors }} </em><br />{{ publi.display }}
 
 {% endif %}
@@ -106,11 +106,11 @@ permalink: /publications/
 
 {% if publi.category1 == 3  or publi.category2 == 3%}
 
-  {{ publi.title }} 
+  <pubtit>{{ publi.title }} 
   {% if publi.pdf != 0 %}
-  <strong><a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ publi.pdf }}">[pdf]</a></strong>
+  <a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ publi.pdf }}">[pdf]</a>
   {% endif %}
-  <br />
+  </pubtit>
   <em>{{ publi.authors }} </em><br />{{ publi.display }}
 
 {% endif %}
@@ -121,11 +121,11 @@ permalink: /publications/
 
 {% if publi.category1 == 4  or publi.category2 == 4%}
 
-  {{ publi.title }} 
+  <pubtit>{{ publi.title }} 
   {% if publi.pdf != 0 %}
-  <strong><a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ publi.pdf }}">[pdf]</a></strong>
+  <a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ publi.pdf }}">[pdf]</a>
   {% endif %}
-  <br />
+  </pubtit>
   <em>{{ publi.authors }} </em><br />{{ publi.display }}
 
 {% endif %}
