@@ -6,7 +6,7 @@ sitemap: false
 permalink: /people/
 ---
 
-# Group Members
+<!-- # Group Members -->
 
 
 Jump to [Members](#members), [Alumni](#alumni), [Former visitors](#visitors).
