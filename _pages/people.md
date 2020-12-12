@@ -18,7 +18,7 @@ Jump to [Members](#members), [Alumni](#alumni), [Former visitors](#visitors).
   <h4>Joshua R. Smith</h4>
   <i>Milton and Delia Zeutschel Professor<br>
   email: <a href="jrs@cs.uw.edu">jrs@cs.uw.edu</a> <br>
-  website: <a href="https://sensor.cs.washington.edu/jrs.html">Link</a></i>
+  website: <a href="{{ site.url }}{{ site.baseurl }}/jrs">Link</a></i>
   <ul style="overflow: hidden">
   </ul>
 </div>
