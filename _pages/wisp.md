@@ -33,7 +33,7 @@ Jeeva Inc is a company spun out of University of Washington that is commercializ
 
 ## UW WISP Researchers
 
-<strong><p style="color:#0000FF;">Current:</p></strong><br>
+<p style="color:#0000FF;"><strong>Current:</strong></p>
 Joshua R. Smith, Principal Investigator<br>
 Shyam Gollakota Associate Prof, UW CSE<br>
 Mehrdad Hessar, UW CSE Grad Student<br>
@@ -43,7 +43,7 @@ Boling Yang, Grad Student, UW CSE<br>
 Zerina Kapetanovic, Grad Student, UW ECE<br>
 Ali Saffari, UW ECE Grad Student<br>
 
-<strong><p style="color:#0000FF;">Former:</p></strong><br>
+<p style="color:#0000FF;"><strong>Former:</strong></p>
 Alanson Sample, Assoc Prof, U Michigan<br>
 Michael Buettner, Google<br>
 Aaron Parks,_VP Jeeva)<br>
