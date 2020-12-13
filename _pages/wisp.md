@@ -18,7 +18,7 @@ WISP, the Wireless Identification and Sensing Platform, is a family of sensors t
 
 <a href="http://wisp.wispsensor.net/">WISP Wiki</a> is the main WISP community website<br>
 <a href="http://wisp5.wispsensor.net/">WISP 5 Wiki</a> has information about the most recent version of the WISP<br>
-<a href="mailwisp@gmail.com">Getting Your Own WISP</a>, Click the link to ask about purchasing pre-built WISP 5 hardware.<br>
+<a href="mailto:mailwisp@gmail.com">Getting Your Own WISP</a>, Click the link to ask about purchasing pre-built WISP 5 hardware.<br>
 <a href="https://www.youtube.com/playlist?list=PLD3E4E37349D415E7">WISP Summit</a>, the first workshop to bring together WISP users in Berkeley, CA in 2009.<br>
 
 ## NSF Support
