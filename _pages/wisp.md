@@ -30,3 +30,41 @@ The WISP infrastructure enables research in a number of areas. Over the years it
 
 <p style="color:#0000FF";>Broader Impacts</p>
 Jeeva Inc is a company spun out of University of Washington that is commercializing research related to the WISP project. The magic of wireless power and backscatter communication can help attract students to science and engineering. We actively recruit students to participate in the research and we aim to increase the participation of students from under-represented groups.
+
+## UW WISP Researchers
+
+<strong><p style="color:#0000FF";>Current:</p></strong>
+Joshua R. Smith, Principal Investigator
+Shyam Gollakota Associate Prof, UW CSE
+Mehrdad Hessar, UW CSE Grad Student
+Brody Mahoney, UW ECE Grad Student
+Jared Nakahara, UW ECE Grad Student
+Boling Yang, Grad Student, UW CSE
+Zerina Kapetanovic, Grad Student, UW ECE
+Ali Saffari, UW ECE Grad Student
+
+<strong><p style="color:#0000FF";>Former:</p></strong>
+Alanson Sample, Assoc Prof, U Michigan
+Michael Buettner, Google
+Aaron Parks,_VP Jeeva)
+Vamsi Talla, CTO Jeeva)
+Saman Naderiparizi, Apple (via XNOR.AI)
+Justin Reina
+David Wetherall Google
+Laura Arjona, Postdoc, UW CSE
+
+## Selected WISP Publications
+
+{% for publi in site.data.publist %}
+
+{% if publi.category1 == 3  or publi.category2 == 3%}
+
+  <pubtit>{{ publi.title }} 
+  {% if publi.pdf != 0 %}
+  <a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ publi.pdf }}">[pdf]</a>
+  {% endif %}
+  </pubtit>
+  <em>{{ publi.authors }} </em><br />{{ publi.display }}
+
+{% endif %}
+{% endfor %}
