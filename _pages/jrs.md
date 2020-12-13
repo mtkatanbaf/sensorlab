@@ -17,7 +17,7 @@ Department of Electrical Engineering, University of Washington<br>
 
 ## Research Overview
 
-Looking for information on the WISP project? These links may be helpful: Overview page on this site and WISP Wiki and WISP 5 Wiki
+Looking for information on the WISP project? These links may be helpful: <a href="{{ site.url }}{{ site.baseurl }}/wisp">Overview page on this site</a> and <a href="http://wisp.wispsensor.net/">WISP Wiki</a> and <a href="http://wisp5.wispsensor.net/">WISP 5 Wiki</a>.
 
 Professor Smith's research aims to improve the connection of information systems to the physical world. The research has application in areas such as ubiquitous computing, robotics, wireless power, and medical devices. One theme explored in his research is alternative sensing systems not modeled on human perceptual systems.
 
