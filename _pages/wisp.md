@@ -34,24 +34,24 @@ Jeeva Inc is a company spun out of University of Washington that is commercializ
 ## UW WISP Researchers
 
 <p style="color:#0000FF;"><strong>Current:</strong></p>
-Joshua R. Smith, Principal Investigator<br>
-Shyam Gollakota Associate Prof, UW CSE<br>
-Mehrdad Hessar, UW CSE Grad Student<br>
-Brody Mahoney, UW ECE Grad Student<br>
-Jared Nakahara, UW ECE Grad Student<br>
-Boling Yang, Grad Student, UW CSE<br>
-Zerina Kapetanovic, Grad Student, UW ECE<br>
-Ali Saffari, UW ECE Grad Student<br>
+<a href="https://sensor.cs.washington.edu/jrs.html">Joshua R. Smith</a>, Principal Investigator<br>
+<a href="https://homes.cs.washington.edu/~gshyam/">Shyam Gollakota</a>, Associate Prof, UW CSE<br>
+<a href="https://mehrdadhessar.com/">Mehrdad Hessar</a>, UW CSE Grad Student<br>
+<a href="http://students.washington.edu/brodym/">Brody Mahoney</a>, UW ECE Grad Student<br>
+<a href="https://scholar.google.com/citations?user=XXyoQyoAAAAJ">Jared Nakahara</a>, UW ECE Grad Student<br>
+<a href="https://homes.cs.washington.edu/~bolingy/">Boling Yang</a>, Grad Student, UW CSE<br>
+<a href="https://www.zerinakapetanovic.com/">Zerina Kapetanovic</a>, Grad Student, UW ECE<br>
+<a href="https://scholar.google.com/citations?user=UAgU_ZYAAAAJ">Ali Saffari</a>, UW ECE Grad Student<br>
 
 <p style="color:#0000FF;"><strong>Former:</strong></p>
-Alanson Sample, Assoc Prof, U Michigan<br>
-Michael Buettner, Google<br>
-Aaron Parks,_VP Jeeva)<br>
-Vamsi Talla, CTO Jeeva)<br>
-Saman Naderiparizi, Apple (via XNOR.AI)<br>
-Justin Reina<br>
-David Wetherall Google<br>
-Laura Arjona, Postdoc, UW CSE<br>
+<a href="http://www.alansonsample.com/">Alanson Sample</a>, Assoc Prof, U Michigan<br>
+<a href="https://scholar.google.com/citations?user=e4G6CIwAAAAJ">Michael Buettner</a>, Google<br>
+<a href="https://www.linkedin.com/in/aaron-parks-22572927/">Aaron Parks</a>, VP Jeeva<br>
+<a href="https://www.linkedin.com/in/vamsi-talla-1902407/">Vamsi Talla</a>, CTO Jeeva<br>
+<a href="https://sites.google.com/site/samannaderiparizi/home">Saman Naderiparizi</a>, Apple (via XNOR.AI)<br>
+<a href="http://www.justinreina.com/">Justin Reina</a><br>
+<a href="https://scholar.google.com/citations?user=HeEBacsAAAAJ">David Wetherall</a>, Google<br>
+<a href="https://www.linkedin.com/in/laura-arjona-3b687534/">Laura Arjona</a>, Postdoc, UW CSE<br>
 
 ## Selected WISP Publications
 
