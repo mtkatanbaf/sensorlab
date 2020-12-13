@@ -30,7 +30,7 @@ permalink: /publications/
   <strong><a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ publi.pdf }}">[pdf]</a></strong>
   {% endif %}
   </pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubs/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong>{{ publi.display }}</strong></p>
