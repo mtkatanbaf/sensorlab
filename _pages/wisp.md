@@ -16,10 +16,10 @@ WISP, the Wireless Identification and Sensing Platform, is a family of sensors t
 
 ## More Information
 
-WISP Wiki is the main WISP community website
-WISP 5 Wiki has information about the most recent version of the WISP
-Getting Your Own WISP, Click the link to ask about purchasing pre-built WISP 5 hardware.
-WISP Summit, the first workshop to bring together WISP users in Berkeley, CA in 2009.
+<a href="http://wisp.wispsensor.net/">WISP Wiki</a> is the main WISP community website<br>
+<a href="http://wisp5.wispsensor.net/">WISP 5 Wiki</a> has information about the most recent version of the WISP<br>
+<a href="mailwisp@gmail.com">Getting Your Own WISP</a>, Click the link to ask about purchasing pre-built WISP 5 hardware.<br>
+<a href="https://www.youtube.com/playlist?list=PLD3E4E37349D415E7">WISP Summit</a>, the first workshop to bring together WISP users in Berkeley, CA in 2009.<br>
 
 ## NSF Support
 
@@ -33,25 +33,25 @@ Jeeva Inc is a company spun out of University of Washington that is commercializ
 
 ## UW WISP Researchers
 
-<strong><p style="color:#0000FF";>Current:</p></strong>
-Joshua R. Smith, Principal Investigator
-Shyam Gollakota Associate Prof, UW CSE
-Mehrdad Hessar, UW CSE Grad Student
-Brody Mahoney, UW ECE Grad Student
-Jared Nakahara, UW ECE Grad Student
-Boling Yang, Grad Student, UW CSE
-Zerina Kapetanovic, Grad Student, UW ECE
-Ali Saffari, UW ECE Grad Student
+<strong><p style="color:#0000FF";>Current:</p></strong><br>
+Joshua R. Smith, Principal Investigator<br>
+Shyam Gollakota Associate Prof, UW CSE<br>
+Mehrdad Hessar, UW CSE Grad Student<br>
+Brody Mahoney, UW ECE Grad Student<br>
+Jared Nakahara, UW ECE Grad Student<br>
+Boling Yang, Grad Student, UW CSE<br>
+Zerina Kapetanovic, Grad Student, UW ECE<br>
+Ali Saffari, UW ECE Grad Student<br>
 
-<strong><p style="color:#0000FF";>Former:</p></strong>
-Alanson Sample, Assoc Prof, U Michigan
-Michael Buettner, Google
-Aaron Parks,_VP Jeeva)
-Vamsi Talla, CTO Jeeva)
-Saman Naderiparizi, Apple (via XNOR.AI)
-Justin Reina
-David Wetherall Google
-Laura Arjona, Postdoc, UW CSE
+<strong><p style="color:#0000FF";>Former:</p></strong><br>
+Alanson Sample, Assoc Prof, U Michigan<br>
+Michael Buettner, Google<br>
+Aaron Parks,_VP Jeeva)<br>
+Vamsi Talla, CTO Jeeva)<br>
+Saman Naderiparizi, Apple (via XNOR.AI)<br>
+Justin Reina<br>
+David Wetherall Google<br>
+Laura Arjona, Postdoc, UW CSE<br>
 
 ## Selected WISP Publications
 
