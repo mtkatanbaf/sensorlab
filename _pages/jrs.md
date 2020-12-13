@@ -6,13 +6,15 @@ sitemap: false
 permalink: /jrs/
 ---
 # Joshua R. Smith, Ph.D.
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/joshwisp.jpg" class="img-responsive" width="33%" style="float: right" />
+
 <strong>Principal Investigator <a href="{{ site.url }}{{ site.baseurl }}">Sensor Systems Laboratory</a></strong><br>
 <strong>Milton and Delia Zeutschel Professor</strong><br>
 Allen School of Computer Science and Engineering, University of Washington<br>
 Department of Electrical Engineering, University of Washington<br>
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/joshonstage.jpg" class="img-responsive" width="33%" style="float: left" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/joshwisp.jpg" class="img-responsive" width="33%" style="float: right" />
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/joshonstage.jpg" class="img-responsive" width="33%" style="float: left" /> -->
 
 ## Research Overview
 
