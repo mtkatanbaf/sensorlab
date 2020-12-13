@@ -8,12 +8,12 @@ permalink: /jrs/
 <img src="{{ site.url }}{{ site.baseurl }}/images/joshwisp.jpg" class="img-responsive" width="33%" style="float: right" />
 
 # Joshua R. Smith, Ph.D.
-<br><br><br><br>
+<br>
 <strong>Principal Investigator <a href="{{ site.url }}{{ site.baseurl }}">Sensor Systems Laboratory</a></strong><br>
 <strong>Milton and Delia Zeutschel Professor</strong><br>
 Allen School of Computer Science and Engineering, University of Washington<br>
 Department of Electrical Engineering, University of Washington<br>
-<br><br><br><br>
+<br><br>
 
 ## Research Overview
 
