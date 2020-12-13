@@ -25,15 +25,15 @@ WISP, the Wireless Identification and Sensing Platform, is a family of sensors t
 
 The WISP project has been supported in part by grants from the National Science Foundation, including CNS-1823148 (“CRI:CI:SUSTAIN: Next-Generation, Sustainable Infrastructure for the RF-Powered Computing Community”),CNS-1305072 (“CI-ADDO-EN: Infrastructure for the RF-Powered Computing Community.”) Additional support from NSF Grant EEC-1028725, Intel Corporation, Disney Corporation, and the Google Faculty Research Awards program.
 
-<p style="color:#0000FF";>Intellectual Merit</p>
+<p style="color:#0000FF;">Intellectual Merit</p>
 The WISP infrastructure enables research in a number of areas. Over the years it has enabled a number of firsts, such as the first UHF-powered accelerometer input device and the first demonstration of public key cryptography on a wirelessly power device. Recent years have seen developments such as Ambient Backscatter Communication, and backscatter-based WISP cameras, which have been received with interest in the research community. Making these tools widely available will enable research on topics such as (ambient) backscatter networking, applications of battery-free cameras, and algorithms for interactive compression and computer vision in battery-free camera systems. This research would likely remain inaccessible for a long time to many CISE researchers, since there are no widely accessible platforms that support research on these topics. The sustained WISP infrastructure will also enable novel application research, in areas such as improved human activity detection systems, battery-free input devices, and also research on body-implanted electronics, and long term structural health monitoring.
 
-<p style="color:#0000FF";>Broader Impacts</p>
+<p style="color:#0000FF;">Broader Impacts</p>
 Jeeva Inc is a company spun out of University of Washington that is commercializing research related to the WISP project. The magic of wireless power and backscatter communication can help attract students to science and engineering. We actively recruit students to participate in the research and we aim to increase the participation of students from under-represented groups.
 
 ## UW WISP Researchers
 
-<strong><p style="color:#0000FF";>Current:</p></strong><br>
+<strong><p style="color:#0000FF;">Current:</p></strong><br>
 Joshua R. Smith, Principal Investigator<br>
 Shyam Gollakota Associate Prof, UW CSE<br>
 Mehrdad Hessar, UW CSE Grad Student<br>
@@ -43,7 +43,7 @@ Boling Yang, Grad Student, UW CSE<br>
 Zerina Kapetanovic, Grad Student, UW ECE<br>
 Ali Saffari, UW ECE Grad Student<br>
 
-<strong><p style="color:#0000FF";>Former:</p></strong><br>
+<strong><p style="color:#0000FF;">Former:</p></strong><br>
 Alanson Sample, Assoc Prof, U Michigan<br>
 Michael Buettner, Google<br>
 Aaron Parks,_VP Jeeva)<br>
