@@ -29,6 +29,11 @@ M.A. 1997 (B.A. Hons 1993), University of Cambridge. Natural Sciences (Physics a
  
 B.A. 1991 Magna Cum Laude, Williams College. Computer Science, Philosophy. Highest Honors for Thesis.
 
+<strong>Principal Investigator <a href="{{ site.url }}{{ site.baseurl }}/downloads/cv-jrs-2020-07-29.pdf">CV (updated 7/29/2020)</a></strong><br>
+ 
+<strong>Principal Investigator <a href="{{ site.url }}{{ site.baseurl }}/downloads/cv-jrs-2020-07-29.pdf">Patents</a></strong><br>
+ 
+<strong>Principal Investigator <a href="https://scholar.google.com/citations?user=LnAus20AAAAJ">Google Scholar page</a></strong><br>
 
 ## Extended Biography
 
