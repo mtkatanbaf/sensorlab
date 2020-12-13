@@ -11,8 +11,8 @@ permalink: /jrs/
 Allen School of Computer Science and Engineering, University of Washington<br>
 Department of Electrical Engineering, University of Washington<br>
 
-<img src="{{ site.url }}{{ site.baseurl }}/joshonstage.jpg" class="img-responsive" width="50%" style="float: left" />
-<img src="{{ site.url }}{{ site.baseurl }}/joshwisp.jpg" class="img-responsive" width="50%" style="float: right" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/joshonstage.jpg" class="img-responsive" width="50%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/joshwisp.jpg" class="img-responsive" width="50%" style="float: right" />
 
 ## Research Overview
 
@@ -57,3 +57,21 @@ Smith completed his PhD at the MIT Media Lab in 1999, under Neil Gershenfeld. Hi
 Elesys (formerly NEC Automative Electronics) released a car seat occupant sensing product based directly on Smith's PhD research. The sensing car seat is embedded with electric field sensors to determine the size and body configuration of the occupant in order to make more intelligent airbag firing decisions. The Occupant Position Detection System ships in all Honda cars with side airbags, and a more sophisticated Electric Field Imaging system from Elesys was introduced in GM vehicles beginning in 2004. Here is a televised demonstrationof the Occupant Position Detection System. Motorola also launched an Electric Field Imaging IC, the MC33794 Electric Field Imaging Device, based on Smith's PhD research.
 
 The fact that Electric Field Imaging has so successfully addressed the important problem of automotive passenger sensing is, in Smith's view, proof that alternative sensing mechanisms can enable better machine perceptual systems. While still working on Electric Field Imaging, I realized that the weak signal detection techniques I was using could be applied in a very different setting, digital watermarking or data hiding. My paper Modulation and Information Hiding in Images was one of the first to propose a quantitive model of digital watermarking, and to frame digital watermarking in terms of communications concepts such as signal, noise, bandwidth and jamming margin.
+
+
+## Early Research Projects 
+
+Electric Field Imaging:
+Electric Field Imaging lets machines inexpensively sense in 3 dimensions, with high precision and fast update rates. For user interface applications, the user does not have to wear or hold anything, because the technique directly measures the bulk conductivity of the human body. It does not require a line of sight to the body being measured---thus a device can see what its user is doing, right through a plastic case or fabric seat cover. The School of Fish below is an Active Network Sensing system I designed and built to for Electric Field Imaging applications.
+ 
+
+Digital Watermarking / Steganography:
+Bringing signal detection techniques from EFI to a new domain, I published a paper on digital watermarking that has turned out to be influential, measured by citations. At Escher, we applied my data hiding methods to create a new form of postage for the nation of Singapore.
+ 
+Steganographic Postage Symbology for Singapore:
+Security Data is steganographically encoded in the rectangular color field. Escher calls this symbology SpectraSeal.
+ 
+
+FiberFingerprint:
+Digital Watermarking is limited in that it can't be used to distinguish copies from the original. To overcome this limitation, I invented FiberFingerprint.
+Every square centimeter of paper has a unique pattern of hills and valleys, like a human fingerprint. By properly imaging the surface, we can capture an image of the paper's "fingerprint," turn it into a code, and print that code on the item being secured (using a steganographic symbology, or a barcode, etc). If a valid item is copied, the machine readable data in the symbology will be copied, but not the paper's unique charcteristics. Thus when a copied item is verified, the data (encoded in the SpectraSeal) will not match the "fingerprint" of that piece of paper. The New York Times published a story about this work.
