@@ -11,8 +11,8 @@ permalink: /jrs/
 Allen School of Computer Science and Engineering, University of Washington<br>
 Department of Electrical Engineering, University of Washington<br>
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/joshonstage.jpg" class="img-responsive" width="50%" style="float: left" />
-<img src="{{ site.url }}{{ site.baseurl }}/images/joshwisp.jpg" class="img-responsive" width="50%" style="float: right" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/joshonstage.jpg" class="img-responsive" width="33%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/joshwisp.jpg" class="img-responsive" width="33%" style="float: right" />
 
 ## Research Overview
 
