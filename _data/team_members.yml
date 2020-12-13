@@ -31,41 +31,41 @@
   education1: 
 
 - name: Boling Yang
-  photo: 
+  photo: boling.png
   info: PhD Student
   email: bolingy@uw.edu 
-  website:
+  website: <a href="https://homes.cs.washington.edu/~bolingy/">Link</a>
   number_educ: 0
   education1: 
 
 - name: Mohamad Katanbaf
-  photo: 
+  photo: mohamad.png
   info: PhD Student
   email: katanbaf@uw.edu 
-  website:
+  website: <a href="https://scholar.google.com/citations?user=RvY9ZW4AAAAJ&hl=en">Link</a>
   number_educ: 0
   education1: 
 
 - name: Ali Saffari
-  photo: 
+  photo: ali.jpg
   info: PhD Student
   email: saffaria@uw.edu 
-  website:
+  website: <a href="https://scholar.google.com/citations?user=UAgU_ZYAAAAJ&hl=en">Link</a>
   number_educ: 0
   education1: 
 
 - name: Jared Nakahara
-  photo: 
+  photo: jared.png
   info: PhD Student
   email: jarednak@uw.edu 
-  website:
+  website: <a href="https://scholar.google.com/citations?user=XXyoQyoAAAAJ&hl=en">Link</a>
   number_educ: 0
   education1: 
 
 - name: Kedi Yan
-  photo: 
+  photo: kedi.png
   info: MSc Student
   email: kedi@uw.edu
-  website:
+  website: <a href="https://scholar.google.com/citations?user=xR2yRxMAAAAJ&hl=en">Link</a>
   number_educ: 0
   education1: 
