@@ -1,9 +1,9 @@
 ---
-title: "Sensor Systems Lab - Research"
+title: "Sensor Systems Lab - Contact"
 layout: textlay
-excerpt: "Sensor Systems Lab -- Research"
+excerpt: "Sensor Systems Lab -- Contact"
 sitemap: false
-permalink: /research/
+permalink: /contact/
 ---
 
 # Contact
