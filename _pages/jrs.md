@@ -1,12 +1,20 @@
 ---
-title: "Joshua R. Smith"
+title: "Joshua R. Smith, PhD"
 layout: textlay
 excerpt: "Sensor Systems Lab -- Joshua Smith"
 sitemap: false
 permalink: /jrs/
 ---
+# Joshua R. Smith, Ph.D.
+<strong>Principal Investigator <a href="{{ site.url }}{{ site.baseurl }}">Sensor Systems Laboratory</a></strong>
+<strong>Milton and Delia Zeutschel Professor</strong>
+Allen School of Computer Science and Engineering, University of Washington
+Department of Electrical Engineering, University of Washington
 
-# Research Overview
+![]({{ site.url }}{{ site.baseurl }}/joshonstage.jpg){: style="width: 155px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/joshonstage.jpg){: style="width: 155px; float: left; margin: 0px  10px"}
+
+## Research Overview
 
 Looking for information on the WISP project? These links may be helpful: Overview page on this site and WISP Wiki and WISP 5 Wiki
 
